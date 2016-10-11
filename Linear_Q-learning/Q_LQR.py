@@ -4,7 +4,7 @@ Created on Mon Sep 12 07:21:41 2016
 
 @author: isaaczst
 """
-
+import numpy
 from InputSetPoint import InputSetPoint
 import Plant
 import Task
