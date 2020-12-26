@@ -2,8 +2,8 @@
 title: selfIndex
 ---
 
-#
-## Here are some tips might be useful.
+# Here are some tips might be useful.
+##
 #+BEGIN_TIP
 Click to edit any block.
 Type `Enter` to create a new block.
