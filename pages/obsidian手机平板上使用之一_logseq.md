@@ -13,3 +13,10 @@ obsidian的文件可以直接导入到 logseq使用，logseq的移动很好，�
 具体的导入方法可以看一下logseq的用法介绍，目前主要是通过github进行同步，未来会有网盘还会有离线桌面版，两款软件的互通就会更好。
 
 威廉：logseq要怎么使用？它可以代替Roam Research吗？为什么不是obsidian？
+##
+## 另外你可以把笔记同步到github，用logseq账号直接查看，logseq也支持[[]]和关系图谱，基本功能和obsidian差异不大，就是书写方式使用的是大纲，大纲和非大纲的差异你可以通过威廉：Obsidian和思源笔记“坨”状无大纲的缺陷 和威廉：Obsidian和Roam Research的核心差异和相通的地方及一些相通的用法 了解到。
+
+作者：威廉
+链接：https://www.zhihu.com/question/430274828/answer/1644125711
+来源：知乎
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
