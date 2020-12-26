@@ -18,8 +18,8 @@ title: logseq要怎么使用？它可以代替Roam Research吗？
 ## Roam Research是什么：
 Roam Research 是一种新型的双向链笔记的典型代表，最近年非常火热（2020年中旬）大量的软件都把它当作典型进行学习，比如RoamEdit、wolai、obsidian、marginote、notion、workflowy 、印象笔记、Athens Research等都在推出自己的的双向链功能，笔者对这些软件体验后发现目前学习的最好的就是RoamEdit和logseq这两款软件。
 分别网址：
-roamedit.com
-http://logseq.com
+## roamedit.com
+## http://logseq.com
 
 优点：
 这类软件的优点在于它们能帮助你“便捷的最大化的让知识产生连接”从而帮助自己对知识产生较佳的思考、洞见、权衡等，其它方式或软件并不能很好达到类似效果，能达到也是比较吃力的。要注意这种优点是基于很重要的两个特性也就是“小粒度双链块引用”和“知识网络图谱”。
