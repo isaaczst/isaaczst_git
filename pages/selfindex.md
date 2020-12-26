@@ -6,7 +6,7 @@ title: selfIndex
 ##
 #+BEGIN_TIP
 Click to edit any block.
-Type `Enter` to create a new block.
+## Type `Enter` to create a new block.
 Type `Shift+Enter` to create a new line.
 Type `/` to show all the commands.
 Type `[[` to reference or create a new page.
