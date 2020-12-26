@@ -4,11 +4,9 @@ title: logseq要怎么使用？它可以代替Roam Research吗？
 
 ## logseq要怎么使用？它可以代替Roam Research吗？
 威廉
-## 威廉
-兴趣广泛、爱琢磨、博览群书、低碳生活
-​关注他
-90 人赞同了该文章
-本文导航：
+## logseq要怎么使用？它可以代替Roam Research吗？ - 威廉的文章 - 知乎
+## https://zhuanlan.zhihu.com/p/165657050
+## 本文导航：
 本文分为三大区块26个知识小节
 都是笔者通过大半个月实践筛捡而来的经验干货
 可使用crtl+f快速跳转到你需要阅读的小节
