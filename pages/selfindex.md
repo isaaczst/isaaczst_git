@@ -15,7 +15,8 @@ Type `Tab` to indent and `Shift+Tab` to unindent block.
 Type `/Draw` for free drawing.
 Click the help button at the bottom right to see more keybindings. 
 #+END_TIP
-#
+# a new block
+a new line in this block/
 # Memo for logseq
 ##
 ##
