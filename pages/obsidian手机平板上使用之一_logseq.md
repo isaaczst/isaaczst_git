@@ -16,5 +16,8 @@ obsidian的文件可以直接导入到 logseq使用，logseq的移动很好，�
 ##
 ## Obsidian手机版什么时候出？ - 威廉的回答 - 知乎
 https://www.zhihu.com/question/430274828/answer/1644125711
-### 另外你可以把笔记同步到github，用logseq账号直接查看，logseq也支持[[]]和关系图谱，基本功能和obsidian差异不大，就是书写方式使用的是大纲，大纲和非大纲的差异你可以通过威廉：Obsidian和思源笔记“坨”状无大纲的缺陷
-### 和威廉：Obsidian和Roam Research的核心差异和相通的地方及一些相通的用法 了解到。
+### 另外你可以把笔记同步到github，用logseq账号直接查看，logseq也支持[[]]和关系图谱，基本功能和obsidian差异不大，就是书写方式使用的是大纲，大纲和非大纲的差异你可以通过
+### 威廉：Obsidian和思源笔记“坨”状无大纲的缺陷
+### 和
+### 威廉：Obsidian和Roam Research的核心差异和相通的地方及一些相通的用法
+### 了解到。
