@@ -1,5 +1,5 @@
 ---
-title: vrtq
+title: 上帝公式 e^(iπ)=-1 与群论有什么关系
 ---
 
 ## [知乎年度最长科普文]—上帝公式 e^(iπ)=-1 与群论有什么关系？ - zdr0的文章 - 知乎 https://zhuanlan.zhihu.com/p/303377401
