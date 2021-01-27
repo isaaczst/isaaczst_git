@@ -9,12 +9,10 @@ The following is the table of content with comments
 # 0 Introduction
 
 ## 0.1 Backgound
-
-- Optimal control is the core of modern production
+### - Optimal control is the core of modern production
 - CS techniques forged versatile data acquiring capability
 - No more obstacles for optimal control on complexe system
 - But obsacles on 'software'level remain large
-
 ## 0.2 Research Motivation
 ### Investigate the current paradigms of optimal control paradigms
 - Review the development history and potentional solution of nonlinear optimal control 
