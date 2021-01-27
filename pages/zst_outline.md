@@ -106,7 +106,7 @@ The following is the table of content with comments
 ### - Introduce of SVM enables feature apporixmation in low-dimension space
 ## 5.2 Advantage on state space feature approximation
 ### - The paradigm combines the adjustment of sampling domain (for criterion function model learning) and the modeling iteration
-- Learning computation burden is limited
+### - Learning computation burden is limited
 ## 5.3 'Grey box'nature of EM paradigm
 ### - 'First principle'knowldege is introduced via Riccation equation
 - The network of the agent is 'shallow'vs. deep neuron network paradigm
