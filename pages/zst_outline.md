@@ -74,9 +74,9 @@ The following is the table of content with comments
 ### - Introduce criterion function
 ## 3.2 Optimal control via criterion function
 ### - Optimal action algorithm in LQR
-- Optimal action algorithm in Q-learning
-- Relation of optimal action and 'trajectory state'
-- Criterion function is the implicit form of policy function
+### - Optimal action algorithm in Q-learning
+### - Relation of optimal action and 'trajectory state'
+### - Criterion function is the implicit form of policy function
 ## 3.3 EM algorithm of searching optimal policy
 ### - Algorithm 
 - Pseudocode
