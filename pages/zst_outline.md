@@ -36,10 +36,10 @@ The following is the table of content with comments
 ### - The history of canonical approach
 ## 1.2 Optimal control-PDE approaches
 ### - The variation method background
-- The model based approach
-- The methods relates to Lapunov and Riccati equation
-- The approximation solution, such as LMI, etc
-- The variant of predictive control (MPC)
+### - The model based approach
+### - The methods relates to Lapunov and Riccati equation
+### - The approximation solution, such as LMI, etc
+### - The variant of predictive control (MPC)
 ## 1.3 Dynamic Programming - Reinforcement Learning approaches
 ### - The data based approach
 - The methods based on discrete variable space
