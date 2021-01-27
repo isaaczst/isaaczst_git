@@ -61,7 +61,7 @@ The following is the table of content with comments
 ### - Q-learning
 ## 2.3 solutions for high dimension system
 ### - Discretization and local linerlization
-- 'upwind'and 'gowind'format
+### - 'upwind'and 'gowind'format
 ## 2.4 challenging to current paradigm
 ### - Markov Process
 - EM algorithm and aynchronism optimization
