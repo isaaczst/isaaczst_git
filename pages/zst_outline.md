@@ -2,7 +2,7 @@
 title: zst_outline
 ---
 
-## []
+## [[thread]]
 ## Memo: The Outline of Thesis 
 
 The following is the table of content with comments
