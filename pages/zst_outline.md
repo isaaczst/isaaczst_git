@@ -14,7 +14,7 @@ The following is the table of content with comments
 - No more obstacles for optimal control on complexe system
 - But obsacles on 'software'level remain large
 ## 0.2 Research Motivation
-### Investigate the current paradigms of optimal control paradigms
+### - Investigate the current paradigms of optimal control paradigms
 - Review the development history and potentional solution of nonlinear optimal control 
 - propose an imporved methdology
 ## 0.3 Research Objective
