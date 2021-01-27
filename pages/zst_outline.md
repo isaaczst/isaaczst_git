@@ -51,11 +51,9 @@ The following is the table of content with comments
 #  2 theory background
 
 ## 2.1 classical optimal control thoery
-
-- Optimization and optimal control
+### - Optimization and optimal control
 - Theoritical solution on Lagrange form
 - Co-state and Hamiltonian apporach
-
 ## 2.2 data driven adaptive dynamic programming
 
 - Dynamic programming
