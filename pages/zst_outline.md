@@ -47,7 +47,7 @@ The following is the table of content with comments
 ### - Reinforcement learning and Adaptive dyamic programming
 ## 1.4 Motivation from 'Curse of Dimension'
 ### - Current approaches to balance 'dynamic uncertainty'and 'variable discreteness'
-- Motivated from machine learning theory development
+### - Motivated from machine learning theory development
 #  2 theory background
 
 ## 2.1 classical optimal control thoery
