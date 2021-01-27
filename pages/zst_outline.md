@@ -20,12 +20,10 @@ The following is the table of content with comments
 - Review the development history and potentional solution of nonlinear optimal control 
 - propose an imporved methdology
 ## 0.3 Research Objective
-
-- Introduce new concepts for prposed methdology
+### - Introduce new concepts for prposed methdology
 - Explore potential of machine learnig techniques for optimal control
 - Develop practical control solution
 - Provide  mathmetical analysis includes convergence and computation burden, etc.
-
 ## 0.4 Research Contribution
 
 - A new paradigm of optimal control
