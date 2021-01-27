@@ -109,8 +109,8 @@ The following is the table of content with comments
 ### - Learning computation burden is limited
 ## 5.3 'Grey box'nature of EM paradigm
 ### - 'First principle'knowldege is introduced via Riccation equation
-- The network of the agent is 'shallow'vs. deep neuron network paradigm
-- Verification of safty and reliability is available since SVM kernels maps to variation method.
+### - The network of the agent is 'shallow'vs. deep neuron network paradigm
+### - Verification of safty and reliability is available since SVM kernels maps to variation method.
 ## 5.4 Trade-off of the algorithm generalization and cost of learning
 ### - Trade-off of generalization matches the potential applications in the future
 - Interface is operator-friendly in both acadmy and industry communities
