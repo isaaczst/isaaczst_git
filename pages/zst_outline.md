@@ -116,10 +116,10 @@ The following is the table of content with comments
 ### - Interface is operator-friendly in both acadmy and industry communities
 ## 5.5 Development potentional
 ### - The realtion to inverted reinforcement learning problem
-- etc.
+### - etc.
 ## 5.6 Future work
 ### - Industrial practice and verification
-- Computation efficiency, etc.
+### - Computation efficiency, etc.
 
 
 ---
