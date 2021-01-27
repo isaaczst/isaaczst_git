@@ -81,11 +81,9 @@ The following is the table of content with comments
 ### - Algorithm 
 - Pseudocode
 ## 3.4 Convergence of proposed algorithm
-
-- Duality of criterion function model and optimal trajectory measurement
+### - Duality of criterion function model and optimal trajectory measurement
 - Asynchronism vs. Gradient Descent Methods
 - Proof on the base of contraction mapping
-
 # 4 Simulation and test
 
 ## 4.1 Low dimension case: MegLev
