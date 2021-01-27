@@ -91,9 +91,9 @@ The following is the table of content with comments
 ### - more ...
 ## 4.2 Low dimension case: Piecewise Linear system
 ### - two-piece setting
-- data and accuracy
-- convergence checking
-- computation burden analysing
+### - data and accuracy
+### - convergence checking
+### - computation burden analysing
 ## 4.3 High dimension case: 2 link inverted pendulum
 ### -
 ## 4.4 High dimension case: UAV (to be determined)
