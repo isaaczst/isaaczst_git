@@ -63,11 +63,9 @@ The following is the table of content with comments
 ### - Discretization and local linerlization
 - 'upwind'and 'gowind'format
 ## 2.4 challenging to current paradigm
-
-- Markov Process
+### - Markov Process
 - EM algorithm and aynchronism optimization
 - theory of Support Vector Machine
-
 # 3 EM algorithm of QR task
 
 ## 3.1 Introduction of Criterion Function
