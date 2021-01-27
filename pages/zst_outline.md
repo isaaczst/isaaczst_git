@@ -118,14 +118,11 @@ The following is the table of content with comments
 ### - The realtion to inverted reinforcement learning problem
 - etc.
 ## 5.6 Future work
-
-- Industrial practice and verification
+### - Industrial practice and verification
 - Computation efficiency, etc.
 
 
-
 ---
-
 # 脉络
 
 
