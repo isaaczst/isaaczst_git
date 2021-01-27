@@ -56,9 +56,9 @@ The following is the table of content with comments
 ### - Co-state and Hamiltonian apporach
 ## 2.2 data driven adaptive dynamic programming
 ### - Dynamic programming
-- Reinforcement learning
-- 'off-policy'and 'on-policy'searching
-- Q-learning
+### - Reinforcement learning
+### - 'off-policy'and 'on-policy'searching
+### - Q-learning
 ## 2.3 solutions for high dimension system
 ### - Discretization and local linerlization
 - 'upwind'and 'gowind'format
