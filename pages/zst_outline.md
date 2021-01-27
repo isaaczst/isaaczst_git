@@ -19,7 +19,7 @@ The following is the table of content with comments
 ### - propose an imporved methdology
 ## 0.3 Research Objective
 ### - Introduce new concepts for prposed methdology
-- Explore potential of machine learnig techniques for optimal control
+### - Explore potential of machine learnig techniques for optimal control
 - Develop practical control solution
 - Provide  mathmetical analysis includes convergence and computation burden, etc.
 ## 0.4 Research Contribution
