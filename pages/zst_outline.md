@@ -90,12 +90,10 @@ The following is the table of content with comments
 - Discretion
 - more ...
 ## 4.2 Low dimension case: Piecewise Linear system
-
-- two-piece setting
+### - two-piece setting
 - data and accuracy
 - convergence checking
 - computation burden analysing
-
 ## 4.3 High dimension case: 2 link inverted pendulum
 
 -
