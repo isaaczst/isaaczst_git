@@ -42,7 +42,7 @@ The following is the table of content with comments
 ### - The variant of predictive control (MPC)
 ## 1.3 Dynamic Programming - Reinforcement Learning approaches
 ### - The data based approach
-- The methods based on discrete variable space
+### - The methods based on discrete variable space
 - The dynamic programming on linear system: LQR
 - Reinforcement learning and Adaptive dyamic programming
 ## 1.4 Motivation from 'Curse of Dimension'
