@@ -78,10 +78,8 @@ The following is the table of content with comments
 - Relation of optimal action and 'trajectory state'
 - Criterion function is the implicit form of policy function
 ## 3.3 EM algorithm of searching optimal policy
-
-- Algorithm 
+### - Algorithm 
 - Pseudocode
-
 ## 3.4 Convergence of proposed algorithm
 
 - Duality of criterion function model and optimal trajectory measurement
