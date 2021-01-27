@@ -20,8 +20,8 @@ The following is the table of content with comments
 ## 0.3 Research Objective
 ### - Introduce new concepts for prposed methdology
 ### - Explore potential of machine learnig techniques for optimal control
-- Develop practical control solution
-- Provide  mathmetical analysis includes convergence and computation burden, etc.
+### - Develop practical control solution
+### - Provide  mathmetical analysis includes convergence and computation burden, etc.
 ## 0.4 Research Contribution
 ### - A new paradigm of optimal control
 - A dual frame of optimization of dynamic system
