@@ -97,9 +97,7 @@ The following is the table of content with comments
 ## 4.3 High dimension case: 2 link inverted pendulum
 ### -
 ## 4.4 High dimension case: UAV (to be determined)
-
--
-
+### -
 # 5 Discussion
 
 ## 5.1 Discover the topology feature of optimal policy
