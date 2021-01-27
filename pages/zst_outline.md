@@ -86,12 +86,11 @@ The following is the table of content with comments
 - Proof on the base of contraction mapping
 # 4 Simulation and test
 ##
-## 4.1 Low dimension case: MegLev
+### 4.1 Low dimension case: MegLev
 
 - step task
 - Discretion
 - more ...
-
 ## 4.2 Low dimension case: Piecewise Linear system
 
 - two-piece setting
