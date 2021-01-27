@@ -15,8 +15,8 @@ The following is the table of content with comments
 ### - But obsacles on 'software'level remain large
 ## 0.2 Research Motivation
 ### - Investigate the current paradigms of optimal control paradigms
-- Review the development history and potentional solution of nonlinear optimal control 
-- propose an imporved methdology
+### - Review the development history and potentional solution of nonlinear optimal control
+### - propose an imporved methdology
 ## 0.3 Research Objective
 ### - Introduce new concepts for prposed methdology
 - Explore potential of machine learnig techniques for optimal control
