@@ -2,12 +2,10 @@
 title: zst_outline
 ---
 
+##
 ## Memo: The Outline of Thesis 
 
 The following is the table of content with comments
-
-
-
 # 0 Introduction
 
 ## 0.1 Backgound
