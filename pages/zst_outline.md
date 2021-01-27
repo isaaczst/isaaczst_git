@@ -23,10 +23,8 @@ The following is the table of content with comments
 - Develop practical control solution
 - Provide  mathmetical analysis includes convergence and computation burden, etc.
 ## 0.4 Research Contribution
-
-- A new paradigm of optimal control
+### - A new paradigm of optimal control
 - A dual frame of optimization of dynamic system
-
 ## 0.5 Dissertation Organization
 
 
