@@ -103,7 +103,8 @@ The following is the table of content with comments
 ## 5.1 Discover the topology feature of optimal policy
 ### - Introduce the criterion function enables the usuage of 'first priciple'knowledge
 ### - Duality of optimal criterion and optimal action enables the modelling of topology feature
-### - Introduce of SVM enables feature apporixmation in low-dimension space
+### - Introduce of SVM enables feature apporixmation in low-dimension spac
+###
 ## 5.2 Advantage on state space feature approximation
 ### - The paradigm combines the adjustment of sampling domain (for criterion function model learning) and the modeling iteration
 - Learning computation burden is limited
