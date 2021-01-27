@@ -115,10 +115,8 @@ The following is the table of content with comments
 ### - Trade-off of generalization matches the potential applications in the future
 - Interface is operator-friendly in both acadmy and industry communities
 ## 5.5 Development potentional
-
-- The realtion to inverted reinforcement learning problem
+### - The realtion to inverted reinforcement learning problem
 - etc.
-
 ## 5.6 Future work
 
 - Industrial practice and verification
