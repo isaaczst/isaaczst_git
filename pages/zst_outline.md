@@ -70,7 +70,7 @@ The following is the table of content with comments
 
 ## 3.1 Introduction of Criterion Function
 ### - Introduce '(optimal) trajectory state'
-- Introduce 'generlized dynamic programming'
+### - Introduce 'generlized dynamic programming'
 - Introduce criterion function
 ## 3.2 Optimal control via criterion function
 ### - Optimal action algorithm in LQR
