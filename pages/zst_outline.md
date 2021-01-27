@@ -34,7 +34,6 @@ The following is the table of content with comments
 ## 1.1 Introduction
 ## - The classical setting of optimal control
 - The history of canonical approach
-##
 ## 1.2 Optimal control-PDE approaches
 
 - The variation method background
