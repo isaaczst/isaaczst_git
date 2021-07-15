@@ -3,6 +3,7 @@
 - 编者按： 神经网络的训练主要通过求解一个优化问题来完成，但这是一个困难的非线性优化问题，传统的优化理论难以直接应用。在神经网络和优化的交叉领域，长期以来研究人员积累了大量的理论研究和知识，不过这些研究或过于理论而不被大部分实践者所了解，或过于偏工程而不被理论学者所理解和欣赏。本文概述了神经网络的算法和优化理论。对苦于调参常感到困惑的工程师而言，本文可以提供一些已有的理论理解以供参考，并提供一些思考的方式。对理论学者而言，本文力图解释其作为数学问题的困难之所在以及目前的理论进展，以期吸引更多研究者投身神经网络优化理论和算法研究。
 - 原文链接:
 - Optimizaiton for Deep Learning: an Overview.
+  https://link.zhihu.com/?target=https%3A//link.springer.com/epdf/10.1007/s40305-020-00309-6%3Fsharing_token%3DXv0f6yBzgc1QnNAUbQ9pufe4RwlQNchNByi7wbcMAY56wZ54Vxigc8CL-kHvhiYpSthXAu14ZSiMmkrVuqUSJUCRoWymQqZbEnVDQvz2sEBOiX8dkkGxS7bI7irClme0cEKnUtpyPIJONJQQDAiWTskwNws64eAd2xKnqi3nYOY%253D
   ​
   link.springer.com
   1 导言
