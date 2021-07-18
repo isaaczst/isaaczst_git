@@ -12,5 +12,4 @@
 - “We’ve invented a way to overcome the fundamental limitation for running that energy is only being expended during the short ground contact times at each step,” explained Braun. “The invention will not only present a technological advancement for runners, but possibly a third kind of augmentation device competitive to bicycles and ice skates.”
 - As technologies improve and concerns about “technological doping” in sporting events crop up, Vanderbilt researchers believe the device’s significant advantage and novel mechanics could one day lead to an entirely new sport.
 -
-- World records, measured in meters per second, in natural running, running with a spring blade prosthesis  ice-skating and cycling,  and the top speed predicted for augmented running–20.9 meters per second. (Graphic: Sutrisno & Braun, Science Advances, 2020.) 
-  by Spencer Turney
+- World records, measured in meters per second, in natural running, running with a spring blade prosthesis  ice-skating and cycling,  and the top speed predicted for augmented running–20.9 meters per second.
