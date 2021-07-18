@@ -2,7 +2,7 @@
 - The invention, an exoskeleton worn on the legs, would **bring cycling mechanics to the human body** and enable people to run nearly 1.5 times as fast — approaching top cycling speeds. The study with the device, “How to run 50 percent faster without external energy,” appears in Science Advances.
 - “While bicycles rely on human energy the same as running, cycling is faster because of the energy-efficient processes engaged while on a bike,” explained David Braun, assistant professor of mechanical engineering and lead on the study. “Our lab took those processes and sought a way to more effectively augment human performance.”
 - Components of energy conservation while on a bike include the rolling motion of the wheels, which avoids energy losses that occur when runners step, the body weight support provided by the bike rather than by the legs, and the energy supplied through continuous pedaling rather than momentary stepping.
-  -
+  - 骑自行车时节能的组成部分包括车轮的滚动运动，以避免跑步者踩踏时发生的能量损失，自行车而不是腿提供的体重支撑，以及通过连续踩踏而不是瞬间提供的能量 踏步。
 - The theoretical exoskeleton device propels the user forward with energy stored in the spring. (Graphic: Sutrisno & Braun, Science Advances, 2020.) 
   To leverage the continuous motion of bike pedaling, Braun and graduate student Amanda Sutrisno designed the theoretical exoskeleton device to allow the legs to supply energy while in mid-air. They realized that a device, strapped in parallel to each leg and housing a robotic spring, could achieve the same technological advances as a bicycle.
 - Here’s how it works: During a stride, the device springs compress and release in time with the motion of the legs, allowing one spring to contract when the leg pulls up into the air and the other to extend as it comes into contact with the ground.
