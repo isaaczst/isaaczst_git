@@ -4,7 +4,7 @@
 - ==Components of energy conservation== while on a bike include the rolling motion of the wheels, which avoids energy losses that occur when runners step, the body weight support provided by the bike rather than by the legs, and the energy supplied through continuous pedaling rather than momentary stepping.
   - 骑自行车时节能的组成部分包括车轮的滚动运动，以避免跑步者踩踏时发生的能量损失，自行车而不是腿提供的体重支撑，以及通过连续踩踏而不是瞬间提供的能量 踏步。
 - The theoretical #exoskeleton device propels the user forward with energy stored in the spring.
-- (Graphic: Sutrisno & Braun, Science Advances, 2020.)
+-
 - To leverage the continuous motion of bike pedaling, Braun and graduate student Amanda Sutrisno designed the theoretical exoskeleton device to allow the legs to supply energy while in mid-air. They realized that a device, strapped in parallel to each leg and housing a robotic spring, could achieve the same technological advances as a bicycle.
 - Here’s how it works: During a stride, the device springs compress and release in time with the motion of the legs, allowing one spring to contract when the leg pulls up into the air and the other to extend as it comes into contact with the ground.
 - Existing devices with springs, such as jumping stilts, reduce the energy losses when runners step, but do not support the body or allow the legs to move the body forward while in the air, somewhat similar to a bicycle without a seat and a pedal. The new exoskeleton device could not only support the body but also allow the legs to provide energy in the air, so runners can also use all their leg power as when pedaling the bicycle to accelerate — meaning they can run faster than ever.
