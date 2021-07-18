@@ -2,7 +2,7 @@ title:: Design of a Low Profile, Unpowered Ankle Exoskeleton That Fits Under Clo
 
 - https://ieeexplore.ieee.org/document/8667351
 # Abstract
-	- Here, we present the design of a novel unpowered ankle #exoskeleton that is low profile, lightweight, quiet, and low cost to manufacture, intrinsically adapts to different walking speeds, and does not restrict non-sagittal joint motion; while still providing assistive ankle torque that can reduce demands on the biological calf musculature. 
+	- Here, we present the design of a novel unpowered ankle exoskeleton that is low profile, lightweight, quiet, and low cost to manufacture, intrinsically adapts to different walking speeds, and does not restrict non-sagittal joint motion; while still providing assistive ankle torque that can reduce demands on the biological calf musculature. 
 	  - 在这里，我们展示了一种新型无动力踝关节外骨骼的设计，该外骨骼外形小巧、重量轻、安静且制造成本低，本质上适应不同的步行速度，并且不限制非矢状关节运动； 同时仍然提供辅助踝关节扭矩，可以减少对生物小腿肌肉组织的需求。
 	- This paper is an extension of the previously-successful ankle exoskeleton concept by Collins, Wiggin and Sawicki.
 	  - 这篇论文是 Collins、Wiggin 和 Sawicki 先前成功的踝关节外骨骼概念的延伸。
