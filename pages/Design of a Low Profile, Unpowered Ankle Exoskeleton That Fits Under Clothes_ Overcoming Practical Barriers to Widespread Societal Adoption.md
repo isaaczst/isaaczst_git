@@ -11,6 +11,7 @@ title:: Design of a Low Profile, Unpowered Ankle Exoskeleton That Fits Under Clo
 	- Our design integrates a [[low profile]] under-the-foot **clutch** and a soft **conformal** **shank** interface, coupled by an ankle assistance spring that operates in parallel with the user's **calf **muscles.
 	  - 我们的设计集成了一个低调的脚下离合器和一个柔软的**保形**小腿接口，再加上一个脚踝辅助弹簧，与用户的小腿肌肉平行运行。
 	- We fabricated and characterized technical performance of a prototype through benchtop testing and then validated device functionality in two gait analysis case studies.
+	  - 我们通过台式测试制造并表征了原型的技术性能，然后在两个步态分析案例研究中验证了设备功能。
 	- To our knowledge, this is the first ankle plantarflexion assistance exoskeleton that could be feasibly worn under typical daily clothing, without restricting ankle motion, and without components protruding substantially from the shoe, leg, waist, or back.
 	- Our new design highlights the potential for performance-enhancing exoskeletons that are inexpensive, unobtrusive, and can be used on a wide scale to benefit a broad range of individuals throughout society, such as the elderly, individuals with impaired plantarflexor muscle strength, or recreational users.
 	- In summary, this paper demonstrates how an unpowered ankle exoskeleton could be redesigned to more seamlessly integrate into daily life, while still providing performance benefits for common locomotion tasks.
