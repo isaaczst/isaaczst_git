@@ -6,6 +6,8 @@
 -
 - Components of energy conservation while on a bike include the rolling motion of the wheels, which avoids energy losses that occur when runners step, the body weight support provided by the bike rather than by the legs, and the energy supplied through continuous pedaling rather than momentary stepping.
   - 骑自行车时节能的组成部分包括车轮的滚动运动，以避免跑步者踩踏时发生的能量损失，自行车而不是腿提供的体重支撑，以及通过连续踩踏而不是瞬间提供的能量 踏步。
+-
+- ![2021_07_18_image.png](https://cdn.logseq.com/%2Fc15b201a-227a-4f6b-aebf-92b9206a58c2169f1449-1dd7-482e-9590-aaaeb081030e2021_07_18_image.png?Expires=4780233840&Signature=ZVIyLxCf~64UU4-pcKb2fDXQQ0MUupnkBxPqJoQXDRXYv-YN3JgUg9vvJT5-QgrSBWgk1yqpyNSkuhXq3qwbhVDIFn4IoT6kekb~0bCEa7nTlfvyJQMBYYf6y66YwlTxT9w~KMugNtx-Qa3FBmqJKuhhy-yT~531kVWqiQ4H8fHGhFA14eZyuGng69zhyx8BBFBGLBr8NUdJrpCVhguodC8wTKj9eytB0kdyr5Cl0e1zYEQ4kSF~21O7JG0JUsJQfK47Mj~sHZF3JFNsZZLqX57RGdAI4AAS5G9aSxt7iiac5rZLHg~GQ~VuklPfSve8b89pKh0DXSdLz7Z8J8KlKQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 - The theoretical exoskeleton device propels the user forward with energy stored in the spring.
 -
 - To leverage the continuous motion of bike pedaling, Braun and graduate student Amanda Sutrisno designed the theoretical exoskeleton device to allow the legs to supply energy while in mid-air. 
