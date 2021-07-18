@@ -9,6 +9,7 @@
   They realized that a device, strapped in parallel to each leg and housing a robotic spring, could achieve the same technological advances as a bicycle.
 - Here’s how it works: During a stride, the device springs compress and release in time with the motion of the legs, allowing one spring to contract when the leg pulls up into the air and the other to extend as it comes into contact with the ground.
 - Existing devices with springs, such as jumping stilts, reduce the energy losses when runners step, but do not support the body or allow the legs to move the body forward while in the air, somewhat similar to a bicycle without a seat and a pedal. 
+  - 现有的带有弹簧的装置，例如高跷，可以减少跑步者跨步时的能量损失，但在空中不支撑身体或让腿部向前移动身体，有点类似于没有座椅和踏板的自行车。
   The new exoskeleton device could not only support the body but also allow the legs to provide energy in the air, so runners can also use all their leg power as when pedaling the bicycle to accelerate — meaning they can run faster than ever.
 - “We’ve invented a way to overcome the fundamental limitation for running that energy is only being expended during the short ground contact times at each step,” explained Braun. 
   - 布劳恩解释说：“我们发明了一种方法来克服跑步的基本限制，即能量仅在每一步的短时间接触地面时消耗。”
