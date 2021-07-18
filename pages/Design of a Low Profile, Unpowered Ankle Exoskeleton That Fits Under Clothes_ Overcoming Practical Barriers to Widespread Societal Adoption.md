@@ -7,7 +7,7 @@ title:: Design of a Low Profile, Unpowered Ankle Exoskeleton That Fits Under Clo
 	- This paper is an extension of the previously-successful ankle exoskeleton concept by Collins, Wiggin and Sawicki.
 	  - 这篇论文是 Collins、Wiggin 和 Sawicki 先前成功的踝关节外骨骼概念的延伸。
 	- We created a device that blends the torque assistance of the prior exoskeleton with the form-factor benefits of clothing.
-	  - 我们创造了一种设备，将先前外骨骼的扭矩辅助与服装的外形优势相结合。
+	- - 我们创造了一种设备，将先前外骨骼的扭矩辅助与服装的外形优势相结合。
 	- Our design integrates a low profile under-the-foot clutch and a soft conformal shank interface, coupled by an ankle assistance spring that operates in parallel with the user's calf muscles.
 	- We fabricated and characterized technical performance of a prototype through benchtop testing and then validated device functionality in two gait analysis case studies.
 	- To our knowledge, this is the first ankle plantarflexion assistance exoskeleton that could be feasibly worn under typical daily clothing, without restricting ankle motion, and without components protruding substantially from the shoe, leg, waist, or back.
