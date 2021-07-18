@@ -11,6 +11,6 @@
 - Existing devices with springs, such as jumping stilts, reduce the energy losses when runners step, but do not support the body or allow the legs to move the body forward while in the air, somewhat similar to a bicycle without a seat and a pedal. The new exoskeleton device could not only support the body but also allow the legs to provide energy in the air, so runners can also use all their leg power as when pedaling the bicycle to accelerate — meaning they can run faster than ever.
 - “We’ve invented a way to overcome the fundamental limitation for running that energy is only being expended during the short ground contact times at each step,” explained Braun. “The invention will not only present a technological advancement for runners, but possibly a third kind of augmentation device competitive to bicycles and ice skates.”
 - As technologies improve and concerns about “technological doping” in sporting events crop up, Vanderbilt researchers believe the device’s significant advantage and novel mechanics could one day lead to an entirely new sport.
-- The research is supported by Vanderbilt University.
+-
 - World records, measured in meters per second, in natural running, running with a spring blade prosthesis  ice-skating and cycling,  and the top speed predicted for augmented running–20.9 meters per second. (Graphic: Sutrisno & Braun, Science Advances, 2020.) 
   by Spencer Turney
