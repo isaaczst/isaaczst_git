@@ -17,4 +17,4 @@ title:: Design of a Low Profile, Unpowered Ankle Exoskeleton That Fits Under Clo
 	- Our new design highlights the potential for performance-enhancing exoskeletons that are inexpensive, unobtrusive, and can be used on a wide scale to benefit a broad range of individuals throughout society, such as the elderly, individuals with impaired plantarflexor muscle strength, or recreational users.
 	  - 据我们所知，这是第一款可以穿在典型日常服装下的踝关节跖屈辅助外骨骼，不会限制踝关节运动，也没有从鞋子、腿部、腰部或背部大量突出的组件。
 	- In summary, this paper demonstrates how an unpowered ankle exoskeleton could be redesigned to more seamlessly integrate into daily life, while still providing performance benefits for common locomotion tasks.
-	-
+	  -
