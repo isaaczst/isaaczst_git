@@ -3,7 +3,7 @@
 - “While bicycles rely on human energy the same as running, cycling is faster because of the energy-efficient processes engaged while on a bike,” explained David Braun, assistant professor of mechanical engineering and lead on the study. “Our lab took those processes and sought a way to more effectively augment human performance.”
 - ==Components of energy conservation== while on a bike include the rolling motion of the wheels, which avoids energy losses that occur when runners step, the body weight support provided by the bike rather than by the legs, and the energy supplied through continuous pedaling rather than momentary stepping.
   - 骑自行车时节能的组成部分包括车轮的滚动运动，以避免跑步者踩踏时发生的能量损失，自行车而不是腿提供的体重支撑，以及通过连续踩踏而不是瞬间提供的能量 踏步。
-- The theoretical #exoskeleton device propels the user forward with energy stored in the spring.
+- The theoretical exoskeleton device propels the user forward with energy stored in the spring.
 -
 - To leverage the continuous motion of bike pedaling, Braun and graduate student Amanda Sutrisno designed the theoretical exoskeleton device to allow the legs to supply energy while in mid-air. 
   They realized that a device, strapped in parallel to each leg and housing a robotic spring, could achieve the same technological advances as a bicycle.
