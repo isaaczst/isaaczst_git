@@ -6,6 +6,7 @@
 - The theoretical exoskeleton device propels the user forward with energy stored in the spring.
 -
 - To leverage the continuous motion of bike pedaling, Braun and graduate student Amanda Sutrisno designed the theoretical exoskeleton device to allow the legs to supply energy while in mid-air. 
+  - 为了利用自行车踏板的连续运动，Braun 和研究生 Amanda Sutrisno 设计了理论上的外骨骼装置，让腿在半空中提供能量。
   They realized that a device, strapped in parallel to each leg and housing a robotic spring, could achieve the same technological advances as a bicycle.
 - Here’s how it works: During a stride, the device springs compress and release in time with the motion of the legs, allowing one spring to contract when the leg pulls up into the air and the other to extend as it comes into contact with the ground.
   - 它的工作原理是这样的：在跨步过程中，该装置的弹簧会随着腿的运动而及时压缩和释放，从而使一个弹簧在腿伸向空中时收缩，另一个在与地面接触时伸展 .
