@@ -1,6 +1,7 @@
 - **Runners could soon keep up with cyclists**, thanks to a new invention from a team of mechanical engineers at Vanderbilt.
 - The invention, an exoskeleton worn on the legs, would **bring cycling mechanics to the human body** and enable people to run nearly 1.5 times as fast — approaching top cycling speeds. The study with the device, “How to run 50 percent faster without external energy,” appears in Science Advances.
 - “While bicycles rely on human energy the same as running, cycling is faster because of the energy-efficient processes engaged while on a bike,” explained David Braun, assistant professor of mechanical engineering and lead on the study.
+  collapsed:: true
 	- “虽然自行车与跑步一样依赖人类能量，但由于骑自行车时进行的节能过程，骑自行车的速度更快，”机械工程助理教授兼该研究的负责人大卫布劳恩解释说。
 - “Our lab took those processes and sought a way to more effectively augment human performance.”
 -
