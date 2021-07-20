@@ -160,8 +160,10 @@
 - The method of Mombaur, et al. [3] works by searching for the cost function parameter c which minimizes the sum-squared error between predicted and observed trajectories.
 	- This method has two main components.
 	- In the upper-level, a derivative-free optimization technique is used to search for the cost function parameter c.
-	- In the lower-level, a numerical optimal control method is used to solve the forward optimal control problem (1) for a candidate value of c. We will now discuss the two levels in detail.A. Mombaur 等人的方法。
-	     Mombaur 等人的方法。  [3] 通过搜索成本函数参数 c 来最小化预测和观察到的轨迹之间的总和误差。
+	- In the lower-level, a numerical optimal control method is used to solve the forward optimal control problem (1) for a candidate value of c.
+	- We will now discuss the two levels in detail.
+	- c
+	  -   Mombaur 等人的方法。  [3] 通过搜索成本函数参数 c 来最小化预测和观察到的轨迹之间的总和误差。
 	     这种方法有两个主要组成部分。 在上层，使用无导数优化技术来搜索成本函数参数 c。 在下层，采用数值最优控制方法求解c的候选值的前向最优控制问题（1）。 我们现在将详细讨论这两个级别。
 -
 -
