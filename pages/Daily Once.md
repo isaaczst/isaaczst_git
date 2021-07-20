@@ -9,6 +9,8 @@
   todo:: 1626808842802
 - TODO 工作基线
   todo:: 1626808847150
+- TODO 练ukelele/guitar
+  todo:: 1626810294417
 - TODO 工作总结
   todo:: 1626808844751
 - TODO 处理事务/查邮件/社交礼节
@@ -24,8 +26,6 @@
   todo:: 1626810198996
 - TODO 给家里打电话
 - TODO 冲牙，清洁牙缝
-- TODO 练ukelele/guitar
-  todo:: 1626810294417
 - TODO 练 fencing 动作
 - TODO 素质训练－运球，颠球，跳绳，荡板
 - TODO 业务拓展学习
