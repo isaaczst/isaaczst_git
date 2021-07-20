@@ -143,7 +143,7 @@
   - 本文讨论的方法中的一个重要量是沿轨迹的未加权基函数的累加值，我们称其为轨迹的特征向量 μ(x, u)，定义为
 - (6)
 - In practice, one would generally have sampled observations of the behavior of the system, but for the analysis in this paper, we assume we have perfect observations of the continuous-time system trajectories.
-  在实践中，人们通常会对系统行为进行采样观察，但对于本文中的分析，我们假设我们对连续时间系统轨迹有完美的观察。
+  - 在实践中，人们通常会对系统行为进行采样观察，但对于本文中的分析，我们假设我们对连续时间系统轨迹有完美的观察。
 -
 -
 -
