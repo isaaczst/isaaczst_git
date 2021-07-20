@@ -5,7 +5,7 @@
 	- We compare our approach with three prior methods of inverse optimal control.
 	- We demonstrate the performance of these methods by performing simulation experiments using a collection of nominal system models.
 	- We compare the robustness of these methods by analysing how they perform under perturbations to the system.
-- To this purpose, we consider two scenarios: one in which we exactly know the set of basis functions in the cost function, and another in which the true cost function contains an unknown perturbation.
-- Results from simulation experiments show that our new method is more computationally efficient than prior methods, performs similarly to prior approaches under large perturbations to the system, and better learns the true cost function under small perturbations.
+	- To this purpose, we consider two scenarios: one in which we exactly know the set of basis functions in the cost function, and another in which the true cost function contains an unknown perturbation.
+	- Results from simulation experiments show that our new method is more computationally efficient than prior methods, performs similarly to prior approaches under large perturbations to the system, and better learns the true cost function under small perturbations.
 -
 -
