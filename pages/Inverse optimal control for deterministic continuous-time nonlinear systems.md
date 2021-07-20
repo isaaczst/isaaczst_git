@@ -9,8 +9,7 @@
 	- Results from simulation experiments show that our new method is more computationally efficient than prior methods, performs similarly to prior approaches under large perturbations to the system, and better learns the true cost function under small perturbations.
 # I. INTRODUCTION
 	- In the problem of optimal control we are asked to find input and state trajectories that minimize a given cost function.
-	- In the problem of inverse optimal control we are asked to find a cost function with respect to which observed
-	  input and state trajectories are optimal. Methods of inverse
+	- In the problem of inverse optimal control we are asked to find a cost function with respect to which observed input and state trajectories are optimal. Methods of inverse
 	  optimal control are beginning to find widespread application
 	  in robotics. In this paper, we consider this problem under
 	  deterministic continuous-time nonlinear systems and cost
