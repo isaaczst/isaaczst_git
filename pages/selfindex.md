@@ -9,7 +9,7 @@ title: selfIndex
 - [[Mind spots]]
 # 资源
 ## 网上
--
+- [[source list]]
 # Here are some tips might be useful.
 #
 #+BEGIN_TIP
