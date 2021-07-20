@@ -114,9 +114,7 @@
 	- We assume, without loss of generality, that kck ≤ 1.
 	- We assume that the system equations
 - (2)
-- are well posed, that is, for every initial condition xstart
-  and every admissible control u(t), the system x˙(t) =
-  f[x(t), u(t)] has a unique solution x on t ∈ [0, tf ]. This
+- are well posed, that is, for every initial condition xstart and every admissible control u(t), the system x˙(t) =f[x(t), u(t)] has a unique solution x on t ∈ [0, tf ]. This
   is satisfied, for example, when f is continuous in t and u
   and differentiable (C
   1
