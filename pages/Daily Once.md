@@ -18,6 +18,7 @@
   todo:: 1626808846272
 - TODO 读一篇文献
   todo:: 1626808848314
+- TODO 练 fencing 动作
 - TODO 打一局足球
   todo:: 1626808850238
 - TODO 听一段访谈（中或英）
@@ -27,6 +28,5 @@
   todo:: 1626810198996
 - TODO 给家里打电话
 - TODO 冲牙，清洁牙缝
-- TODO 练 fencing 动作
 - TODO ...
 -
