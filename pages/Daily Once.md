@@ -24,6 +24,7 @@
   todo:: 1626810198996
 - TODO 给家里打电话
 - TODO 冲牙，清洁牙缝
-- TODO 练ukelele
+- TODO 练ukelele/guitar
   todo:: 1626810294417
+-
 -
