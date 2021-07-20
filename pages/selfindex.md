@@ -2,7 +2,7 @@
 title: selfIndex
 ---
 
-- #　Here starts
+# Here starts
 -
 # Here are some tips might be useful.
 #
