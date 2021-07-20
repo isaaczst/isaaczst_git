@@ -27,5 +27,6 @@
 - TODO 练ukelele/guitar
   todo:: 1626810294417
 - TODO 练 fencing 动作
-- TODO 素质训练－运球，颠球，跳绳，
+- TODO 素质训练－运球，颠球，跳绳，荡板
+-
 -
