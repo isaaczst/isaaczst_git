@@ -177,5 +177,6 @@
 	- This method is easily extended for the case where multiple trajectories are observed by considering the sum of predicted errors with respect to each observed trajectory in the upper-level objective.
 	- c
 	  - 其中 [x * (t);  u ∗ (t)] 是在时间 t 时观测轨迹的状态和输入的向量级联，[x c (t);  u c (t)] 是前向问题 (1) 的解，给定参数向量 c。 蒙鲍尔等人。  [3] 讨论高性能无导数算法以最小化这个上层目标。 然而，对于本文中的基线分析，我们使用了 Nelder-Mead 单纯形算法的 Matlab fminsearch 实现。  Nelder-Mead 算法的迭代构成了该方法的上层。 在选择 c 的新候选值后，下层通过对候选值求解 (1)，生成预测轨迹 (x c , uc )。 给定这个轨迹，可以评估上层目标，并继续搜索新的候选 c。 通过考虑相对于上层目标中每个观察到的轨迹的预测误差总和，该方法可以很容易地扩展到观察到多个轨迹的情况。
-- B. Abbeel 和 Ng 的方法 Abbeel 和 Ng 的方法 [1] 最初是为具有折扣奖励的无限范围马尔可夫决策过程而开发的。 该方法的目标是找到一种控制策略，该策略产生的特征向量与观察到的轨迹的特征向量接近。 该方法通过选择一个随机代价函数参数向量c(0)并求解前向问题(1)来初始化，得到初始预测轨迹(x(0)，u(0))和相关特征向量μ(0)。 在第 i 次迭代中，求解以下二次程序：
+## B. Method of Abbeel and Ng
+- The method of Abbeel and Ng [1] was originally developed for infinite-horizon Markov decision processes with discounted reward. The goal of this method is to find a control policy which yield a feature vector close to that of the observed trajectory. The method is initialized by selecting a random cost function parameter vector c (0) and solving the forward problem (1) to obtain an initial predicted trajectory (x (0), u(0)) and associated feature vector µ (0). On the i-th iteration, solve the following quadratic program:B. Abbeel 和 Ng 的方法 Abbeel 和 Ng 的方法 [1] 最初是为具有折扣奖励的无限范围马尔可夫决策过程而开发的。 该方法的目标是找到一种控制策略，该策略产生的特征向量与观察到的轨迹的特征向量接近。 该方法通过选择一个随机代价函数参数向量c(0)并求解前向问题(1)来初始化，得到初始预测轨迹(x(0)，u(0))和相关特征向量μ(0)。 在第 i 次迭代中，求解以下二次程序：
 -
