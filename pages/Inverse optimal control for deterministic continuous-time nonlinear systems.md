@@ -156,7 +156,9 @@
 	- The general structure and theoretical guarantees of the methods apply with slight modification to the deterministic continuous-time class of problems we consider in this paper, specified in Equation (1).
 	- c
 	  - 在本节中，我们正式描述了逆最优控制的三种先前方法，我们将它们与第五部分中开发的新方法进行了比较。在它们的原始形式中，Abbeel 和 Ng 的方法以及 Ratliff 等人的方法。 是在马尔可夫决策过程的背景下开发的。 这些方法的一般结构和理论保证适用于我们在本文中考虑的确定性连续时间类问题，在等式（1）中指定。
-- A. Mombaur 等人的方法。
+## A. Method of Mombaur, et al.
+- The method of Mombaur, et al. [3] works by searching for the cost function parameter c which minimizes the sumsquared error between predicted and observed trajectories.
+  This method has two main components. In the upper-level, a derivative-free optimization technique is used to search for the cost function parameter c. In the lower-level, a numerical optimal control method is used to solve the forward optimal control problem (1) for a candidate value of c. We will now discuss the two levels in detail.A. Mombaur 等人的方法。
      Mombaur 等人的方法。  [3] 通过搜索成本函数参数 c 来最小化预测和观察到的轨迹之间的总和误差。
      这种方法有两个主要组成部分。 在上层，使用无导数优化技术来搜索成本函数参数 c。 在下层，采用数值最优控制方法求解c的候选值的前向最优控制问题（1）。 我们现在将详细讨论这两个级别。
 -
