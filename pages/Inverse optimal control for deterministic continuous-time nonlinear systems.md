@@ -147,8 +147,7 @@
 - In practice, the solution of (1) is typically obtained using
   a numerical optimal control solver such as direct multiple
   shooting or collocation.
-	- In this paper, we use the pseudospectral optimal control package GPOPS [34] to numerically solve the forward problem in the prior methods which require
-	  it.
+	- In this paper, we use the pseudospectral optimal control package GPOPS [34] to numerically solve the forward problem in the prior methods which require it.
 	- c
 	  - 在实践中，（1）的解通常是使用数值优化控制求解器获得的，例如直接多重射击或搭配。 在本文中，我们使用伪谱最优控制包 GPOPS [34] 来数值求解现有方法中需要它的前向问题。
 -
