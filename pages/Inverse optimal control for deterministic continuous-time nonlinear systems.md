@@ -140,7 +140,7 @@
 - (5)
 - An important quantity in the methods discussed in this paper is the accumulated value of the unweighted basis functions along a trajectory, which we call the feature vector of a trajectory µ(x, u), and define by
   - 本文讨论的方法中的一个重要量是沿轨迹的未加权基函数的累加值，我们称其为轨迹的特征向量 μ(x, u)，定义为
--
+- (6)
 -
 -
 -
