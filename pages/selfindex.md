@@ -3,7 +3,7 @@ title: selfIndex
 ---
 
 # 按重要性排列
--
+- {{query exoskeleton}}
 -
 # Here are some tips might be useful.
 #
