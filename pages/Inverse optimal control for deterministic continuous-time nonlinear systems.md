@@ -112,6 +112,5 @@
 - (1)
 - where x(t) ∈ X ⊂ Rn is the state, u(t) ∈ U ⊂ Rm is the input, φ : R × X × U → Rk+ are known basis functions, andc ∈ Rk is an unknown parameter vector to be learned.
 - We assume, without loss of generality, that kck ≤ 1.
-- We assume
-  that the system equations
--
+- We assume that the system equations
+- (2)
