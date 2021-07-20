@@ -15,8 +15,7 @@
 	- Three existing methods which solve this problem are the following:
 - The max-margin inverse reinforcement learning method of Abbeel and Ng [1].
 	- This method is motivated by the problem of efficiently automating vehicle navigation tasks which currently require human expert operation.
-	- This method works by trying to learn a cost function
-	  that, when minimized, yields a trajectory with similar
+	- This method works by trying to learn a cost function that, when minimized, yields a trajectory with similar
 	  features as the expert. This method recently contributed
 	  to a framework which enables autonomous helicopter
 	  aerobatic flight based on observations of human expert
