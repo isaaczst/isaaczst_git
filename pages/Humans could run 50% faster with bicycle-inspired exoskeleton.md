@@ -11,10 +11,10 @@
 - ![2021_07_18_image.png](https://cdn.logseq.com/%2Fc15b201a-227a-4f6b-aebf-92b9206a58c2169f1449-1dd7-482e-9590-aaaeb081030e2021_07_18_image.png?Expires=4780233840&Signature=ZVIyLxCf~64UU4-pcKb2fDXQQ0MUupnkBxPqJoQXDRXYv-YN3JgUg9vvJT5-QgrSBWgk1yqpyNSkuhXq3qwbhVDIFn4IoT6kekb~0bCEa7nTlfvyJQMBYYf6y66YwlTxT9w~KMugNtx-Qa3FBmqJKuhhy-yT~531kVWqiQ4H8fHGhFA14eZyuGng69zhyx8BBFBGLBr8NUdJrpCVhguodC8wTKj9eytB0kdyr5Cl0e1zYEQ4kSF~21O7JG0JUsJQfK47Mj~sHZF3JFNsZZLqX57RGdAI4AAS5G9aSxt7iiac5rZLHg~GQ~VuklPfSve8b89pKh0DXSdLz7Z8J8KlKQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 - The theoretical exoskeleton device propels the user forward with energy stored in the spring.
 -
-- To leverage the continuous motion of bike pedaling, Braun and graduate student Amanda Sutrisno designed the theoretical exoskeleton device to allow the legs to supply energy while in mid-air.
-	- 为了利用自行车踏板的连续运动，Braun 和研究生 Amanda Sutrisno 设计了理论上的外骨骼装置，让腿在半空中提供能量。
-- They realized that a device, strapped in parallel to each leg and housing a robotic spring, could achieve the same technological advances as a bicycle.
-	- 他们意识到，与每条腿平行捆绑并装有机器人弹簧的装置可以实现与自行车相同的技术进步。
+- To leverage the continuous motion of bike pedaling, Braun and graduate student Amanda Sutrisno designed the theoretical exoskeleton device to allow the legs to supply energy while in mid-air. 
+  - 为了利用自行车踏板的连续运动，Braun 和研究生 Amanda Sutrisno 设计了理论上的外骨骼装置，让腿在半空中提供能量。
+- They realized that a device, strapped in parallel to each leg and housing a robotic spring, could achieve the same technological advances as a bicycle. 
+  - 他们意识到，与每条腿平行捆绑并装有机器人弹簧的装置可以实现与自行车相同的技术进步。
 - Here’s how it works: During a stride, the device springs compress and release in time with the motion of the legs, allowing one spring to contract when the leg pulls up into the air and the other to extend as it comes into contact with the ground.
 	- 它的工作原理是这样的：在跨步过程中，该装置的弹簧会随着腿的运动而及时压缩和释放，从而使一个弹簧在腿伸向空中时收缩，另一个在与地面接触时伸展 .
 - Existing devices with springs, such as jumping stilts, reduce the energy losses when runners step, but do not support the body or allow the legs to move the body forward while in the air, somewhat similar to a bicycle without a seat and a pedal.
