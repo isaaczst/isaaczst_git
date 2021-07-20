@@ -167,7 +167,7 @@
 	     这种方法有两个主要组成部分。 在上层，使用无导数优化技术来搜索成本函数参数 c。 在下层，采用数值最优控制方法求解c的候选值的前向最优控制问题（1）。 我们现在将详细讨论这两个级别。
 - The objective of the upper-level derivative-free optimization is given by the following
   - 上层无导数优化的目标由下式给出
--
+- (7)
 -
 -
 -
