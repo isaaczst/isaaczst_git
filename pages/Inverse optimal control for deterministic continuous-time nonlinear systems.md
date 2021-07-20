@@ -15,11 +15,13 @@
 	- Methods of inverse optimal control are beginning to find widespread application in robotics.
 	- In this paper, we consider this problem under deterministic continuous-time nonlinear systems and cost functions modeled by a linear combination of known basis functions.
 	- Three existing methods which solve this problem are the following:
-- The max-margin inverse reinforcement learning method of Abbeel and Ng [1].
+- The max-margin inverse reinforcement learning method of Abbeel and Ng [1]. 
+  collapsed:: true
 	- This method is motivated by the problem of efficiently automating vehicle navigation tasks which currently require human expert operation.
 	- This method works by trying to learn a cost function that, when minimized, yields a trajectory with similar features as the expert.
 	- This method recently contributed to a framework which enables autonomous helicopter aerobatic flight based on observations of human expert pilots.
-- The maximum-margin planning method of Ratliff, et al.[2].
+- The maximum-margin planning method of Ratliff, et al.[2]. 
+  collapsed:: true
 	- This method shares the motivation of Abbeel and Ng, and works by minimizing a regularized risk function using an incremental subgradient method.
 	- This method contributed to a framework which mimics human driving of an autonomous mobile robot in complex off-road terrain
 - The method of Mombaur, et al. which we will call bilevel inverse optimal control [3].
