@@ -8,7 +8,7 @@ title: selfIndex
 - [[Daily Once]]
 - [[Mind spots]]
 # 资源
-##
+## 网上
 # Here are some tips might be useful.
 #
 #+BEGIN_TIP
