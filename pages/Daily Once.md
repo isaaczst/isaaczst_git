@@ -20,7 +20,7 @@
 - TODO 听一段访谈（中或英）
   todo:: 1626808852912
 - TODO 学第二外语
-- todo
+- todo 洗
 - TODO -[x] dd
   todo:: 1626808855719
 -
