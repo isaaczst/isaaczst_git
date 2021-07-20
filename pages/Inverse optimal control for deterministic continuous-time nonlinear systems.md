@@ -22,8 +22,7 @@
 	- This method contributed to a framework which mimics human driving of an autonomous mobile robot in complex off-road terrain
 - The method of Mombaur, et al. which we will call bilevel inverse optimal control [3].
 	- This work is motivated by the problem of generating humanoid robot behavior which is similar to natural human motion.
-	- This method
-	  works by minimizing the sum squared error between
+	- This method works by minimizing the sum squared error between
 	  predicted and observed trajectories. This method is
 	  applied to develop a model of human goal-oriented
 	  locomotion in the plane (i.e. paths taken during goaloriented walking tasks) using observations from motion
