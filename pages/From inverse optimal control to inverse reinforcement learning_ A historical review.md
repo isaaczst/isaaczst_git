@@ -14,4 +14,5 @@ title:: From inverse optimal control to inverse reinforcement learning: A histor
 	- For this purpose, IOC methods are categorized under two classes, namely classic and modern approaches.
 	- The classic IOC is typically formulated for control systems, while IRL, as a modern approach to IOC, is considered for machine learning problems.
 	- Despite the presence of a handful of IOC/IRL methods, a comprehensive categorization of these methods is lacking.
-	- In addition to the IOC/IRL problems, this paper elaborates, where necessary, on other relevant concepts such as Learning from Demonstration (LfD), Imitation Learning (IL), and Behavioral Cloning. Some of the challenges encountered in the IOC/IRL problems are further discussed in this work, including ill-posedness, non-convexity, data availability, non-linearity, the curses of complexity and dimensionality, feature selection, and generalizability.
+	- In addition to the IOC/IRL problems, this paper elaborates, where necessary, on other relevant concepts such as Learning from Demonstration (LfD), Imitation Learning (IL), and Behavioral Cloning.
+	- Some of the challenges encountered in the IOC/IRL problems are further discussed in this work, including ill-posedness, non-convexity, data availability, non-linearity, the curses of complexity and dimensionality, feature selection, and generalizability.
