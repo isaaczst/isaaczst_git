@@ -77,7 +77,8 @@
 	    阿加尔等人。 提供对该领域工作的调查[5]。
 	    第二种通用​​方法是学习一个代价函数，关于观察到的输入和状态轨迹是（近似）最优的，即逆最优控制 [1]-[4]，[6]-[21]。 这些方法主要集中在有限维优化和随机最优控制问题上
 - In the context of finite parameter optimization, Keshavarz, et al. [4] develop an inverse optimization method which learns the value function of a discrete-time stochastic control system given observations.
-	- These ideas were extended to learn a cost function for a deterministic discrete-time system in Puydupin-Jamin, et al. [6], and a hybrid dynamical system in [22]. Similarly, Terekhov, et al. [7], [8] and Park, et al.
+	- These ideas were extended to learn a cost function for a deterministic discrete-time system in Puydupin-Jamin, et al. [6], and a hybrid dynamical system in [22].
+	- Similarly, Terekhov, et al. [7], [8] and Park, et al.
 	  [9] develop an inverse optimization method for deterministic finite-dimensional optimization problems with additive cost functions and linear constraints. Other recent work formulates an optimization problem which simultaneously learns a cost function and optimal trajectories [23], [24].在有限参数优化的背景下，Keshavarz 等人。  [4] 开发了一种逆优化方法，该方法可以学习给定观测值的离散时间随机控制系统的值函数。 这些想法在 Puydupin-Jamin 等人中被扩展到学习确定性离散时间系统的成本函数。  [6] 和 [22] 中的混合动力系统。 同样，捷列霍夫等人。  [7]、[8] 和 Park 等人。
 	     [9] 开发了一种用于具有附加成本函数和线性约束的确定性有限维优化问题的逆优化方法。 最近的其他工作制定了一个优化问题，该问题同时学习成本函数和最佳轨迹 [23]、[24]。
 -
