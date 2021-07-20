@@ -107,8 +107,7 @@
 	- cn
 	  - 从示范方法中学习被应用于三个不同的领域。 首先，从演示中学习已被用作数据驱动自动化的一种方法 [1]、[2]、[11]-[15]、[17]、[19]、[25]-[27]。 感兴趣的任务包括双足行走、飞机导航、农业和工程车辆的操作。 其次，从演示方法中学习已应用于认知和神经建模 [3]、[7]-[10]、[18]、[28]-[31]。 第三，从演示方法中学习已应用于可变形物体的系统识别 [21]，即学习手术缝合线、绳索和头发等物体的弹性刚度参数。
 # III. INVERSE OPTIMAL CONTROL: PROBLEM STATEMENT
-- In the rest of this paper, we consider the following class
-  of optimal control problems
--
+- In the rest of this paper, we consider the following class of optimal control problems
+- (1)
 -
 -
