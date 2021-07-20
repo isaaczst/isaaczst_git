@@ -124,8 +124,8 @@
 	  constraints.
 	- These constraints are often important in practice, and will be the subject of future work.
 - The problem of inverse optimal control is to infer the unknown parameters with respect to which a given trajectory, the observation, is a local extremal solution to problem (1).
-  This observed trajectory is denoted by逆最优控制的问题是推断未知参数，对于这些未知参数，给定轨迹，即观测值，是问题 (1) 的局部极值解。
-     这个观察到的轨迹表示为
+	- This observed trajectory is denoted by逆最优控制的问题是推断未知参数，对于这些未知参数，给定轨迹，即观测值，是问题 (1) 的局部极值解。
+	     这个观察到的轨迹表示为
 -
 -
 -
