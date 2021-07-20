@@ -110,5 +110,10 @@
 # III. INVERSE OPTIMAL CONTROL: PROBLEM STATEMENT
 - In the rest of this paper, we consider the following class of optimal control problems
 - (1)
--
+- where x(t) ∈ X ⊂ Rn is the state, u(t) ∈ U ⊂ Rm is the input, φ : R × X × U → Rk+ are known basis functions, and
+  c ∈ R
+  k
+  is an unknown parameter vector to be learned. We
+  assume, without loss of generality, that kck ≤ 1. We assume
+  that the system equations
 -
