@@ -6,6 +6,7 @@ title: selfIndex
 - {{query exoskeleton}}
   query-table:: false
 - [[Daily Once]]
+- [[Mind spots]]
 -
 # Here are some tips might be useful.
 #
