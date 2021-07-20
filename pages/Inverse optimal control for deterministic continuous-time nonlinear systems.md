@@ -40,4 +40,4 @@
 	- CN
 	  - 尽管学习的方式有所不同，但这些方法具有共同的结构。 
 	  - 本文的一个目标是解释这种通用结构，并在一组示例问题上比较这些方法。 这些算法的一个共同组成部分尤为重要。 每个方法都包含一个内部循环，它通过最小化候选成本函数来计算预测轨迹。 换句话说，每种方法在内循环中重复解决前向最优控制问题。 这通常会导致计算瓶颈。 本文的另一个目标是开发一种不会在内环中重复解决前向最优控制问题的方法。 我们的方法受到 [4] 中逆优化思想的启发，假设观测值可能来自仅近似最优的系统。 我们根据轨迹满足最优控制的必要条件的程度来定义轨迹的最优程度。 这个假设允许我们根据这些必要条件定义残差函数，当在未知参数上最小化时，产生一个使观测值最佳的解决方案。 正如我们将展示的，这种新方法简化为求解矩阵 Riccati 微分方程，然后进行最小二乘最小化。
--
+- It is unclear at this point how all of these methods compare in terms of prediction accuracy, computational complexity and robustness to system perturbations. In this paper, we explore the performance of these methods using three example systems: (1) linear quadratic regulation, (2) quadratic regulation of a kinematic unicycle, and (3) calibration of an elastic rod. We compare the robustness of these methods by analysing how they perform under perturbations to the system. To this purpose, we consider two scenarios: one in which we exactly know the set of basis functions in the cost function, and another in which the true cost function contains an unknown perturbation. Results from simulation
