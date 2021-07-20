@@ -5,7 +5,7 @@ title: selfIndex
 # 按重要性排列
 - {{query exoskeleton}}
   query-table:: false
-## [[Daily Once]]
+- [[Daily Once]]
 -
 # Here are some tips might be useful.
 #
