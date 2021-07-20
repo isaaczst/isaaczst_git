@@ -1,4 +1,4 @@
-- pdf
+- pdf http://publish.illinois.edu/science-of-security-lablet/files/2017/03/Inverse-Optimal-Control-for-Deterministic-Continuous-time-Nonlinear-Systems.pdf
 # Abstract:
 	- Inverse optimal control is the problem of computing a cost function with respect to which observed state and input trajectories are optimal.
 	- We present a new method of inverse optimal control based on minimizing the extent to which observed trajectories violate first-order necessary conditions for optimality.
