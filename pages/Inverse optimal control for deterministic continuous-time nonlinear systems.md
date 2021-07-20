@@ -67,7 +67,9 @@
 	- CN
 	  - 逆最优控制通常被用作解决从示范中学习的广泛问题的方法，这通常被称为模仿学习或学徒学习。 从演示中学习的问题是从教师提供的示例或演示中导出控制策略（从状态到动作的映射）。
 	    演示通常被认为是教师演示期间记录的状态-动作对序列
-- 从示范中学习通常有两种方法。 一种方法是使用分类或回归来学习从状态到动作的映射。
+- There are generally two methods of approach within learning from demonstration. One approach is to learn a map from states to actions using classification or regression.
+  Argall, et al. provide a survey of the work in this area [5].
+  The second general approach is to learn a cost function with respect to which observed input and state trajectories are (approximately) optimal, i.e. inverse optimal control [1]–[4], [6]–[21]. These methods have primarily focused on finite-dimensional optimization and stochastic optimal control problems从示范中学习通常有两种方法。 一种方法是使用分类或回归来学习从状态到动作的映射。
     阿加尔等人。 提供对该领域工作的调查[5]。
     第二种通用​​方法是学习一个代价函数，关于观察到的输入和状态轨迹是（近似）最优的，即逆最优控制 [1]-[4]，[6]-[21]。 这些方法主要集中在有限维优化和随机最优控制问题上
 -
