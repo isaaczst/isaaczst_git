@@ -25,5 +25,5 @@
 	- This method works by minimizing the sum squared error between
 	  predicted and observed trajectories.
 	- This method is applied to develop a model of human goal-oriented
-	  locomotion in the plane (i.e. paths taken during goaloriented walking tasks) using observations from motion
-	  capture, and implement the model on a humanoid robot.
+	  locomotion in the plane (i.e. paths taken during goaloriented walking tasks) using observations from motion capture, and implement the model on a humanoid robot.
+-
