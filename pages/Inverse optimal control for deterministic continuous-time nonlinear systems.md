@@ -98,7 +98,8 @@
 	  - 已经在随机最优控制问题的背景下开发了多种方法，特别是马尔可夫决策过程 [1]、[11]、[13]、[15]-[17]、[19]、[20]  .  Ng 和 Russell [11] 开发了一种基于线性规划的平稳马尔可夫决策过程的方法。
 	     Abbeel 和 Ng [1] 通过找到一个成本函数来扩展这项工作，在该函数中，专家的成本比预测轨迹的成本低一点。 进一步的扩展同时学习沿特定感兴趣轨迹的系统动力学 [13]。 拉马钱德兰等人。  [16] 采用贝叶斯方法，并假设行动的分布与未来的预期回报成正比。  Ziebart 等人开发的方法。  [17] 的工作原理是计算所有可能路径上的概率分布，这些路径与沿观察轨迹的特征匹配。  Dvjijotham 和 Todorov [19] 开发了一种用于线性可解随机最优控制问题的逆最优控制方法。 他们的方法利用了这样一个事实：对于他们考虑的系统模型类别，一旦价值函数已知，Hamilton-Jacobi-Bellman 方程就会给出成本函数的明确公式。  Aghasadeghi 和 Bretl [20] 开发了一种逆优化控制方法，该方法使用路径积分来创建所有可能路径的概率分布。
 	     那么问题之一是最大化观察的可能性。
-- 从示范方法中学习被应用于三个不同的领域。 首先，从演示中学习已被用作数据驱动自动化的一种方法 [1]、[2]、[11]-[15]、[17]、[19]、[25]-[27]。 感兴趣的任务包括双足行走、飞机导航、农业和工程车辆的操作。 其次，从演示方法中学习已应用于认知和神经建模 [3]、[7]-[10]、[18]、[28]-[31]。 第三，从演示方法中学习已应用于可变形物体的系统识别 [21]，即学习手术缝合线、绳索和头发等物体的弹性刚度参数。
+-
+- Learning from demonstration methods are applied in three different areas. First, learning from demonstration has been applied as a method of data-driven automation [1], [2], [11]– [15], [17], [19], [25]–[27]. Tasks of interest include bipedal walking, navigation of aircraft, operation of agricultural and construction vehicles. Second, learning from demonstration methods have been applied to cognitive and neural modeling [3], [7]–[10], [18], [28]–[31]. Third, learning from demonstration methods have been applied to system identification of deformable objects [21], i.e. learning elastic stiffness parameters of objects such as surgical suture, rope, and hair.从示范方法中学习被应用于三个不同的领域。 首先，从演示中学习已被用作数据驱动自动化的一种方法 [1]、[2]、[11]-[15]、[17]、[19]、[25]-[27]。 感兴趣的任务包括双足行走、飞机导航、农业和工程车辆的操作。 其次，从演示方法中学习已应用于认知和神经建模 [3]、[7]-[10]、[18]、[28]-[31]。 第三，从演示方法中学习已应用于可变形物体的系统识别 [21]，即学习手术缝合线、绳索和头发等物体的弹性刚度参数。
 -
 -
 -
