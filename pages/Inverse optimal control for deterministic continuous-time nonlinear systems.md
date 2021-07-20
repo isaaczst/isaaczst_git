@@ -45,6 +45,7 @@
 	- (1) linear quadratic regulation,
 	- (2) quadratic regulation of a kinematic unicycle, and
 	- (3) calibration of an elastic rod.
-	- We compare the robustness of these methods by analysing how they perform under perturbations to the system. To this purpose, we consider two scenarios: one in which we exactly know the set of basis functions in the cost function, and another in which the true cost function contains an unknown perturbation. Results from simulation experiments show that our new method is more computationally efficient than prior methods, performs similarly to prior approaches under large perturbations to the system, and better learns the true cost function under small perturbations
+	- We compare the robustness of these methods by analysing how they perform under perturbations to the system.
+	- To this purpose, we consider two scenarios: one in which we exactly know the set of basis functions in the cost function, and another in which the true cost function contains an unknown perturbation. Results from simulation experiments show that our new method is more computationally efficient than prior methods, performs similarly to prior approaches under large perturbations to the system, and better learns the true cost function under small perturbations
 	- CN
 	  - 目前尚不清楚所有这些方法在预测精度、计算复杂性和对系统扰动的鲁棒性方面的比较。 在本文中，我们使用三个示例系统探索这些方法的性能：（1）线性二次调节，（2）运动学独轮车的二次调节，以及（3）弹性杆的校准。 我们通过分析它们在系统扰动下的表现来比较这些方法的稳健性。 为此，我们考虑两种情况：一种是我们确切知道成本函数中的基函数集，另一种是真实成本函数包含未知扰动。 仿真实验结果表明，我们的新方法比现有方法计算效率更高，在对系统的大扰动下与现有方法相似，并且在小扰动下更好地学习真实成本函数
