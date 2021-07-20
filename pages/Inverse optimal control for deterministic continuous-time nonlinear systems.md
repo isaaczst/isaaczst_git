@@ -84,7 +84,8 @@
 	- cn
 	  - 在有限参数优化的背景下，Keshavarz 等人。  [4] 开发了一种逆优化方法，该方法可以学习给定观测值的离散时间随机控制系统的值函数。 这些想法在 Puydupin-Jamin 等人中被扩展到学习确定性离散时间系统的成本函数。  [6] 和 [22] 中的混合动力系统。 同样，捷列霍夫等人。  [7]、[8] 和 Park 等人。
 	     [9] 开发了一种用于具有附加成本函数和线性约束的确定性有限维优化问题的逆优化方法。 最近的其他工作制定了一个优化问题，该问题同时学习成本函数和最佳轨迹 [23]、[24]。
--
+- A variety of methods have been developed in the context of stochastic optimal control problems and, in particular, Markov decision processes [1], [11], [13], [15]–[17], [19], [20]. Ng and Russell [11] developed a method for stationary Markov decision processes based on linear programming.
+  Abbeel and Ng [1] extends that work by finding a cost function with respect to which the expert’s cost is less than that of predicted trajectories by a margin. A further extension simultaneously learns the system dynamics along specific
 -
 -
 -
