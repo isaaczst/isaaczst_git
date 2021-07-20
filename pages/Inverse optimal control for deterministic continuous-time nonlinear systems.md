@@ -146,9 +146,10 @@
   - 在实践中，人们通常会对系统行为进行采样观察，但对于本文中的分析，我们假设我们对连续时间系统轨迹有完美的观察。
 - In practice, the solution of (1) is typically obtained using
   a numerical optimal control solver such as direct multiple
-  shooting or collocation. In this paper, we use the pseudospectral optimal control package GPOPS [34] to numerically
-  solve the forward problem in the prior methods which require
-  it.
-  - 在实践中，（1）的解通常是使用数值优化控制求解器获得的，例如直接多重射击或搭配。 在本文中，我们使用伪谱最优控制包 GPOPS [34] 来数值求解现有方法中需要它的前向问题。
+  shooting or collocation.
+	- In this paper, we use the pseudospectral optimal control package GPOPS [34] to numerically
+	  solve the forward problem in the prior methods which require
+	  it.
+	  - 在实践中，（1）的解通常是使用数值优化控制求解器获得的，例如直接多重射击或搭配。 在本文中，我们使用伪谱最优控制包 GPOPS [34] 来数值求解现有方法中需要它的前向问题。
 -
 -
