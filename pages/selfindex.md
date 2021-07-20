@@ -7,7 +7,7 @@ title: selfIndex
   query-table:: false
 - [[Daily Once]]
 - [[Mind spots]]
--
+- ＃
 # Here are some tips might be useful.
 #
 #+BEGIN_TIP
