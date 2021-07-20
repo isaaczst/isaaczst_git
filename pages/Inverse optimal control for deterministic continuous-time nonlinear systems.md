@@ -24,13 +24,15 @@
   collapsed:: true
 	- This method shares the motivation of Abbeel and Ng, and works by minimizing a regularized risk function using an incremental subgradient method.
 	- This method contributed to a framework which mimics human driving of an autonomous mobile robot in complex off-road terrain
-- The method of Mombaur, et al. which we will call bilevel inverse optimal control [3].
+- The method of Mombaur, et al. which we will call bilevel inverse optimal control [3]. 
+  collapsed:: true
 	- This work is motivated by the problem of generating humanoid robot behavior which is similar to natural human motion.
 	- This method works by minimizing the sum squared error between
 	  predicted and observed trajectories.
 	- This method is applied to develop a model of human goal-oriented
 	  locomotion in the plane (i.e. paths taken during goaloriented walking tasks) using observations from motion capture, and implement the model on a humanoid robot.
-- Despite differences in how learning is performed, these methods share common structure.
+- Despite differences in how learning is performed, these methods share common structure. 
+  collapsed:: true
 	- One goal of this paper is to explain this common structure and compare these methods on a set of example problems.
 	- One common component to these algorithms is particularly important.
 	- Each method contains an inner loop which computes a predicted trajectory by minimizing a candidate cost function.
