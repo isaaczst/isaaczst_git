@@ -27,6 +27,5 @@
 - TODO 练ukelele/guitar
   todo:: 1626810294417
 - TODO 练 fencing 动作
--
-  TODO
+- TODO 素质训练－篮球
 -
