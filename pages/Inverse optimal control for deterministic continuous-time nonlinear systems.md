@@ -19,5 +19,6 @@
 	- This method recently contributed to a framework which enables autonomous helicopter aerobatic flight based on observations of human expert pilots.
 - The maximum-margin planning method of Ratliff, et al.[2].
 	- This method shares the motivation of Abbeel and Ng, and works by minimizing a regularized risk function using an incremental subgradient method.
-	- This method
+	- This method contributed to a framework which mimics human driving of an autonomous mobile robot in complex off-road
+	  terrain
 -
