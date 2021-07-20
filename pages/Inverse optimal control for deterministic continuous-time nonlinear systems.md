@@ -61,9 +61,10 @@
 	     在第四节中，我们描述了逆向最优控制的现有方法，并与我们的新方法 [1]-[3] 进行了比较。 在第五节中，我们根据最优控制的必要条件开发了我们的新方法。 在第六节中，我们描述了模拟 e
 -
 # II. RELATED WORK
-- Inverse optimal control is often used as a solution approach to the broad problem of learning from demonstration, which is often referred to as imitation learning or apprenticeship learning. The problem of learning from demonstration is to derive a control policy (a mapping from states to actions) from examples, or demonstrations, provided by a teacher.
-  Demonstrations are typically considered to be sequences of state-action pairs recorded during the teacher’s demonstration二、 相关工作逆最优控制通常被用作解决从示范中学习的广泛问题的方法，这通常被称为模仿学习或学徒学习。 从演示中学习的问题是从教师提供的示例或演示中导出控制策略（从状态到动作的映射）。
-    演示通常被认为是教师演示期间记录的状态-动作对序列
+- Inverse optimal control is often used as a solution approach to the broad problem of learning from demonstration, which is often referred to as imitation learning or apprenticeship learning.
+	- The problem of learning from demonstration is to derive a control policy (a mapping from states to actions) from examples, or demonstrations, provided by a teacher.
+	  Demonstrations are typically considered to be sequences of state-action pairs recorded during the teacher’s demonstration二、 相关工作逆最优控制通常被用作解决从示范中学习的广泛问题的方法，这通常被称为模仿学习或学徒学习。 从演示中学习的问题是从教师提供的示例或演示中导出控制策略（从状态到动作的映射）。
+	    演示通常被认为是教师演示期间记录的状态-动作对序列
 -
 -
 -
