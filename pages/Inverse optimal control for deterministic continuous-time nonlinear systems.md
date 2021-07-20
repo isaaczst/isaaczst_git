@@ -130,6 +130,7 @@
 	     这个观察到的轨迹表示为
 - (3)
 - For convenience, we will often drop the asterisk and refer to an optimal trajectory as (x, t).
-	- We also consider observing multiple trajectories, each local minima of problem (1) for different boundary conditions. We will refer to a set D of M observations as follows为方便起见，我们通常会去掉星号并将最佳轨迹称为 (x, t)。 我们还考虑观察多个轨迹，针对不同边界条件的问题 (1) 的每个局部最小值。 我们将参考 M 个观察结果的集合 D 如下
+	- We also consider observing multiple trajectories, each local minima of problem (1) for different boundary conditions.
+	- We will refer to a set D of M observations as follows为方便起见，我们通常会去掉星号并将最佳轨迹称为 (x, t)。 我们还考虑观察多个轨迹，针对不同边界条件的问题 (1) 的每个局部最小值。 我们将参考 M 个观察结果的集合 D 如下
 -
 -
