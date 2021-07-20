@@ -115,11 +115,10 @@
 	- We assume that the system equations
 - (2)
 - are well posed, that is, for every initial condition xstart and every admissible control u(t), the system x˙(t) =f[x(t), u(t)] has a unique solution x on t ∈ [0, tf ].
-- This is satisfied, for example, when f is continuous in t and u
-  and differentiable (C1) in x, fx is continuous in t and u, and
-  u is piecewise continuous as a function of t [32], [33].
-- The
-  objective basis function φ is assumed to be smooth in x and
-  u. This problem also assumes there are no input and state
-  constraints. These constraints are often important in practice,
-  and will be the subject of future work.
+	- This is satisfied, for example, when f is continuous in t and u
+	  and differentiable (C1) in x, fx is continuous in t and u, and
+	  u is piecewise continuous as a function of t [32], [33].
+	- The objective basis function φ is assumed to be smooth in x and
+	  u. This problem also assumes there are no input and state
+	  constraints. These constraints are often important in practice,
+	  and will be the subject of future work.
