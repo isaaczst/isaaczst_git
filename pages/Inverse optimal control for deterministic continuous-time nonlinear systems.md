@@ -122,5 +122,4 @@
 	  u.
 	- This problem also assumes there are no input and state
 	  constraints.
-	- These constraints are often important in practice,
-	  and will be the subject of future work.
+	- These constraints are often important in practice,and will be the subject of future work.
