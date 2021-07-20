@@ -10,7 +10,8 @@
 # I. INTRODUCTION
 	- In the problem of optimal control we are asked to find input and state trajectories that minimize a given cost function.
 	- In the problem of inverse optimal control we are asked to find a cost function with respect to which observed input and state trajectories are optimal.
-	- Methods of inverse optimal control are beginning to find widespread application in robotics. In this paper, we consider this problem under
+	- Methods of inverse optimal control are beginning to find widespread application in robotics.
+	- In this paper, we consider this problem under
 	  deterministic continuous-time nonlinear systems and cost
 	  functions modeled by a linear combination of known basis
 	  functions. Three existing methods which solve this problem
