@@ -155,5 +155,10 @@
 	- In their original form, the method of Abbeel and Ng, and the method of Ratliff, et al. were developed in the context of Markov decision processes.
 	- The general structure and theoretical guarantees of the methods apply with slight modification to the deterministic continuous-time class of problems we consider in this paper, specified in Equation (1).
 	- c
-	  - 四、 三种先前方法 在本节中，我们正式描述了逆最优控制的三种先前方法，我们将它们与第五部分中开发的新方法进行了比较。在它们的原始形式中，Abbeel 和 Ng 的方法以及 Ratliff 等人的方法。 是在马尔可夫决策过程的背景下开发的。 这些方法的一般结构和理论保证适用于我们在本文中考虑的确定性连续时间类问题，在等式（1）中指定。
+	  - 在本节中，我们正式描述了逆最优控制的三种先前方法，我们将它们与第五部分中开发的新方法进行了比较。在它们的原始形式中，Abbeel 和 Ng 的方法以及 Ratliff 等人的方法。 是在马尔可夫决策过程的背景下开发的。 这些方法的一般结构和理论保证适用于我们在本文中考虑的确定性连续时间类问题，在等式（1）中指定。
+-
+-
+-
+-
+-
 -
