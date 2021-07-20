@@ -94,7 +94,8 @@
 	- Their method takes advantage of the fact that, for the class of system model they consider, the Hamilton-Jacobi-Bellman equation gives an explicit formula for the cost function once the value function is known.
 	- Aghasadeghi and Bretl [20] develop a method of inverse optimal control that uses path integrals to create a probability distribution over all possible paths.
 	- The problem is then one of maximizing the likelihood of observations.
-	- 已经在随机最优控制问题的背景下开发了多种方法，特别是马尔可夫决策过程 [1]、[11]、[13]、[15]-[17]、[19]、[20]  .  Ng 和 Russell [11] 开发了一种基于线性规划的平稳马尔可夫决策过程的方法。
+	- cn
+	  - 已经在随机最优控制问题的背景下开发了多种方法，特别是马尔可夫决策过程 [1]、[11]、[13]、[15]-[17]、[19]、[20]  .  Ng 和 Russell [11] 开发了一种基于线性规划的平稳马尔可夫决策过程的方法。
 	     Abbeel 和 Ng [1] 通过找到一个成本函数来扩展这项工作，在该函数中，专家的成本比预测轨迹的成本低一点。 进一步的扩展同时学习沿特定感兴趣轨迹的系统动力学 [13]。 拉马钱德兰等人。  [16] 采用贝叶斯方法，并假设行动的分布与未来的预期回报成正比。  Ziebart 等人开发的方法。  [17] 的工作原理是计算所有可能路径上的概率分布，这些路径与沿观察轨迹的特征匹配。  Dvjijotham 和 Todorov [19] 开发了一种用于线性可解随机最优控制问题的逆最优控制方法。 他们的方法利用了这样一个事实：对于他们考虑的系统模型类别，一旦价值函数已知，Hamilton-Jacobi-Bellman 方程就会给出成本函数的明确公式。  Aghasadeghi 和 Bretl [20] 开发了一种逆优化控制方法，该方法使用路径积分来创建所有可能路径的概率分布。
 	     那么问题之一是最大化观察的可能性。
 -
