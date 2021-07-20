@@ -50,7 +50,9 @@
 	- Results from simulation experiments show that our new method is more computationally efficient than prior methods, performs similarly to prior approaches under large perturbations to the system, and better learns the true cost function under small perturbations
 	- CN
 	  - 目前尚不清楚所有这些方法在预测精度、计算复杂性和对系统扰动的鲁棒性方面的比较。 在本文中，我们使用三个示例系统探索这些方法的性能：（1）线性二次调节，（2）运动学独轮车的二次调节，以及（3）弹性杆的校准。 我们通过分析它们在系统扰动下的表现来比较这些方法的稳健性。 为此，我们考虑两种情况：一种是我们确切知道成本函数中的基函数集，另一种是真实成本函数包含未知扰动。 仿真实验结果表明，我们的新方法比现有方法计算效率更高，在对系统的大扰动下与现有方法相似，并且在小扰动下更好地学习真实成本函数
-- 本文的其余部分如下。 在第二节中，我们讨论了相关工作，并注意到逆优化控制和相关方法所应用的各种问题。 在第三节中，我们描述了我们考虑的系统类别，以及相关的逆最优控制问题。
+- The rest of the paper proceeds as follows.
+- In Section II we discuss related work and note the variety of problems to which inverse optimal control and related methods are applied. In Section III we describe the class of systems we consider, and the associated inverse optimal control problem.
+  In Section IV we describe the existing methods of inverse optimal control with which we compare our new method [1]–[3]. In Section V we develop our new method based on necessary conditions for optimal control. In Section VI we describe simulation e本文的其余部分如下。 在第二节中，我们讨论了相关工作，并注意到逆优化控制和相关方法所应用的各种问题。 在第三节中，我们描述了我们考虑的系统类别，以及相关的逆最优控制问题。
      在第四节中，我们描述了逆向最优控制的现有方法，并与我们的新方法 [1]-[3] 进行了比较。 在第五节中，我们根据最优控制的必要条件开发了我们的新方法。 在第六节中，我们描述了模拟 e
 -
 -
