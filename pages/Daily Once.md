@@ -26,6 +26,7 @@
 	  todo:: 1626808852912
 	- TODO 打一局足球
 	  todo:: 1626808850238
+	  template:: DailyOnce2021Jul
 	- TODO 学第二外语
 	- TODO 洗随身衣物
 	  todo:: 1626810198996
