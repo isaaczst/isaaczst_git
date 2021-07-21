@@ -17,6 +17,8 @@
 - 该研究已发表在2021年国际学习表征会议上，可点此阅读→
 	- https://openreview.net/forum?id=8wqCDnBmnrT
 # Zero-shot Synthesis with Group-Supervised Learning
+- https://openreview.net/pdf?id=8wqCDnBmnrT
+-
 - Yunhao Ge, Sami Abu-El-Haija, Gan Xin, Laurent Itti
   28 Sept 2020 (modified: 16 Feb 2021)
   ICLR 2021 PosterReaders:  EveryoneShow BibtexShow Revisions
