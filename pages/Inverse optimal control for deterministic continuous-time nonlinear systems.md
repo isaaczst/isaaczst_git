@@ -193,7 +193,9 @@
 	  - 其中 b (i) 是第 i 次迭代的余量，μ ∗ 和 μ (j) 分别是最优轨迹和第 j 个轨迹的特征向量（回忆（6）中给出的定义）。
 	     如果 b (i) < ，则终止。 否则，给定二次规划的结果 c (i) ，求解前向最优控制问题，方程 (1)，其中 c = c (i) 以获得预测轨迹 (x (i) , u(i) ) 和相关的特征向量 µ (i) 。 设置 i = i + 1 并重复。
 - As shown in [1], this method terminates after a finite number of iterations (the theorems stated and proved in [1] carry over with minor modification to the deterministic continuous-time case, which we omit for brevity).
-	- Upon termination, this algorithm returns a set of policies Π, and there exists at least one policy in Π that yields a feature vector differing from the expert’s by no more than .如 [1] 所示，该方法在有限次数的迭代后终止（[1] 中陈述和证明的定理在对确定性连续时间情况稍加修改后得以延续，为简洁起见，我们将其省略）。 在终止时，该算法返回一组策略 Π，并且在 Π 中至少存在一个策略，该策略产生与专家的特征向量相差不超过 的特征向量。
+	- Upon termination, this algorithm returns a set of policies Π, and there exists at least one policy in Π that yields a feature vector differing from the expert’s by no more than .
+	- c
+	  - 如 [1] 所示，该方法在有限次数的迭代后终止（[1] 中陈述和证明的定理在对确定性连续时间情况稍加修改后得以延续，为简洁起见，我们将其省略）。 在终止时，该算法返回一组策略 Π，并且在 Π 中至少存在一个策略，该策略产生与专家的特征向量相差不超过 的特征向量。
 -
 -
 -
