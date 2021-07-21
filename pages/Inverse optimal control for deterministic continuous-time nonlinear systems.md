@@ -185,6 +185,8 @@
 	- c
 	  - Abbeel 和 Ng 的方法 [1] 最初是为具有折扣奖励的无限范围马尔可夫决策过程而开发的。 该方法的目标是找到一种控制策略，该策略产生的特征向量与观察到的轨迹的特征向量接近。 该方法通过选择一个随机代价函数参数向量c(0)并求解前向问题(1)来初始化，得到初始预测轨迹(x(0)，u(0))和相关特征向量μ(0)。 在第 i 次迭代中，求解以下二次程序：
 - (8)
--
+- where b (i) is the margin on the i-th iteration, and µ ∗ and µ (j) are the feature vectors of the optimal trajectory and jth trajectory, respectively (recall the definition given in (6)).
+  If b (i) < , then terminate. Otherwise, given the result from the quadratic program, c (i) , solve the forward optimal control problem, Equation (1), with c = c (i) to obtain the predicted trajectory (x (i) , u(i) ) and associated feature vector µ (i) . Set i = i + 1 and repeat.其中 b (i) 是第 i 次迭代的余量，μ ∗ 和 μ (j) 分别是最优轨迹和第 j 个轨迹的特征向量（回忆（6）中给出的定义）。
+     如果 b (i) < ，则终止。 否则，给定二次规划的结果 c (i) ，求解前向最优控制问题，方程 (1)，其中 c = c (i) 以获得预测轨迹 (x (i) , u(i) ) 和相关的特征向量 µ (i) 。 设置 i = i + 1 并重复。
 -
 -
