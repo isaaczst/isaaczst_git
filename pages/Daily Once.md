@@ -1,5 +1,5 @@
 -
-- Template(按优先级排列)
+- DailyOnceTemplate(按优先级排列)
 	- TODO 太极拳套路
 	  todo:: 1626808785877
 	  done:: 1626808779125
