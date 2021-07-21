@@ -3,7 +3,7 @@ title: selfIndex
 ---
 
 # 按重要性排列
-- {{query exoskeleton}}
+-
   query-table:: false
 - [[Daily Once]]
 - [[Mind spots]]
