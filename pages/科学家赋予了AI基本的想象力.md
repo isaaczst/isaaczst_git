@@ -35,5 +35,5 @@
 - We qualitatively and quantitatively demonstrate that GZS-Net trained with GSL outperforms state-of-the-art methods
 # Code Of Ethics: 
 I acknowledge that I and all co-authors of this work have read and commit to adhering to the ICLR Code of Ethics
-One-sentence Summary: To aid neural networks to envision objects with different attributes,  we propose GSL which allows us to decompose inputs into a disentangled representation with swappable components, that can be recombined to synthesize new samples. 
+# One-sentence Summary: To aid neural networks to envision objects with different attributes,  we propose GSL which allows us to decompose inputs into a disentangled representation with swappable components, that can be recombined to synthesize new samples. 
 Supplementary Material:   zip
