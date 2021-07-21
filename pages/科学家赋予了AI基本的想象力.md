@@ -33,7 +33,7 @@
 - We propose an implementation based on auto-encoder, termed group-supervised zero-shot synthesis network (GZS-Net) trained with our learning framework, that can produce a high-quality red car even if no such example is witnessed during training.
 - We test our model and learning framework on existing benchmarks, in addition to a new dataset that we open-source.
 - We qualitatively and quantitatively demonstrate that GZS-Net trained with GSL outperforms state-of-the-art methods
-- Code Of Ethics: 
-  I acknowledge that I and all co-authors of this work have read and commit to adhering to the ICLR Code of Ethics
-  One-sentence Summary: To aid neural networks to envision objects with different attributes,  we propose GSL which allows us to decompose inputs into a disentangled representation with swappable components, that can be recombined to synthesize new samples. 
-  Supplementary Material:   zip
+# Code Of Ethics: 
+I acknowledge that I and all co-authors of this work have read and commit to adhering to the ICLR Code of Ethics
+One-sentence Summary: To aid neural networks to envision objects with different attributes,  we propose GSL which allows us to decompose inputs into a disentangled representation with swappable components, that can be recombined to synthesize new samples. 
+Supplementary Material:   zip
