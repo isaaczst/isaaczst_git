@@ -7,6 +7,7 @@
 - 团队在这里想出的方法被称为可控的分离表征学习，类似于那些用于创建深度伪造视频的方法——分离样本的不同部分(所以在深度伪造视频的情况下，分离面部运动和面部身份)。
 - 这意味着，如果人工智能看到一辆红色汽车和一辆蓝色自行车，那么它将能够为自己 "想象" 出一辆红色自行车——即使它以前从未见过。研究人员把这些放在一个框架中，他们称之为群体监督学习。
 - 科学家赋予了AI基本的想象力
+- ![2021_07_21_image.png](https://cdn.logseq.com/%2Fc15b201a-227a-4f6b-aebf-92b9206a58c2640bb083-4bac-461f-82dd-fe48c0852a442021_07_21_image.png?Expires=4780475265&Signature=C0qTOlpzr01maPLEtHvlY1EjVXuee0WFNfPuxKkszgEegPyYoj5R8s7nhtfQQ5Yu9CsZCIqAE25D3ARClbgj37nNEcmSOfR0AP-L2Qff909uaCswa2l0hVYIhSM6aoxc7KVmKz6RFvFs-Zqugso0t3TWTft48uRWqAvwhsdnexhOuRoIm~MSeYj90aSMiISd0camWWYizZblIVX8BlO91alGOG~gdPaFwAqox9cAvZSBcz~5iVLhC7rLQKgytUAwa3AZfM8iqzC46xmhPU~kNqg8VDHUDky7o2vBRof-2mXPxNNPYiaRl4ACkk0y77WNt0lIL~WAk1lBUziLQdkSOQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 - 嗨，Siri plus 从训练数据中推断出新的数据。(Itti et al., 2021)
 - 这项技术的主要创新之一是分组处理样本，并在此过程中建立起它们之间的语义联系。然后，人工智能能够识别它所看到的样本的相似性和差异性，利用这些知识来产生全新的东西。
 - 南加州大学计算机科学家Laurent Itti说："这种新的拆分方法，第一次真正释放了人工智能系统的想象力，使它们更接近于人类对世界的理解。”
