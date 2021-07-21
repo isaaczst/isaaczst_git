@@ -1,2 +1,3 @@
 ## [[selfIndex]]
 - [[selfIndex]]
+- [[Daily Once]]
