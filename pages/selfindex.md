@@ -11,7 +11,7 @@ title: selfIndex
 # 资源
 ## 网上
 - [[source list]]
-- tools
+- [[tools]]
 -
 ##
 ##
