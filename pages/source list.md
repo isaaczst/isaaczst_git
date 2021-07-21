@@ -1,5 +1,5 @@
 # 设置
-- TODO 设置 sportify / tuneIn －配合 echo 语音控制
+- TODO 设置 sportify / tuneIn －配合 echo 语音控制 音频学习资料
 ## 科普，英文
 -
 - Veritasium
