@@ -16,3 +16,11 @@
 - Itti说："深度学习已经在许多领域展示了无与伦比的性能和前景，但往往是通过浅层次的模仿来进行，而没有更深入地了解使每个物体独特的独立属性。"
 - 该研究已发表在2021年国际学习表征会议上，可点此阅读→
 	- https://openreview.net/forum?id=8wqCDnBmnrT
+- Zero-shot Synthesis with Group-Supervised Learning 
+  Yunhao Ge, Sami Abu-El-Haija, Gan Xin, Laurent Itti
+  28 Sept 2020 (modified: 16 Feb 2021)ICLR 2021 PosterReaders:  EveryoneShow BibtexShow Revisions
+  Keywords: Disentangled representation learning, Group-supervised learning, Zero-shot synthesis, Knowledge factorization
+  Abstract: Visual cognition of primates is superior to that of artificial neural networks in its ability to “envision” a visual object, even a newly-introduced one, in different attributes including pose, position, color, texture, etc.  To aid neural networks to envision objects with different attributes,  we propose a family of objective functions, expressed on groups of examples, as a novel learning framework that we term Group-Supervised Learning (GSL). GSL allows us to decompose inputs into a disentangled representation with swappable components, that can be recombined to synthesize new samples.  For instance, images of red boats & blue cars can be decomposed and recombined to synthesize novel images of red cars.   We propose an implementation based on auto-encoder, termed group-supervised zero-shot synthesis network (GZS-Net) trained with our learning framework, that can produce a high-quality red car even if no such example is witnessed during training. We test our model and learning framework on existing benchmarks, in addition to a new dataset that we open-source. We qualitatively and quantitatively demonstrate that GZS-Net trained with GSL outperforms state-of-the-art methods
+  Code Of Ethics: I acknowledge that I and all co-authors of this work have read and commit to adhering to the ICLR Code of Ethics
+  One-sentence Summary: To aid neural networks to envision objects with different attributes,  we propose GSL which allows us to decompose inputs into a disentangled representation with swappable components, that can be recombined to synthesize new samples. 
+  Supplementary Material:   zip
