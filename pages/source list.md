@@ -24,7 +24,7 @@
 	- mimiFish FM https://www.youtube.com/channel/UCUlG55IHoeSWr7xbbYUOdwQ
 	- Joseph-Louis Lagrange https://www.youtube.com/channel/UC6_yO5_oQfwelde0uEKiSZg
 ## 功夫
-	- Wu Style Toronto
+	- Wu Style Toronto https://www.youtube.com/channel/UCumLhu6O_hgAULxpmCVPdzQ
 -
 -
 -
