@@ -21,7 +21,7 @@
 	- Deutsch lernen mit der DW https://www.youtube.com/channel/UCxUWIEL-USsiPak0Qy6_vVg
 	- Learn French with a French Dude https://www.youtube.com/channel/UCdSmJLd4X9qZkwO51qBU9NA
 ## 有声书
-	-
+	- mimiFish FM https://www.youtube.com/channel/UCUlG55IHoeSWr7xbbYUOdwQ
 -
 -
 -
