@@ -38,6 +38,6 @@
 	-
 ## 性
 	-
-	- 週刊プレイボーイ【公式】
+	- 週刊プレイボーイ【公式】https://www.youtube.com/channel/UCG9QGvMg993m9lCd-ZjtGPw
 -
 -
