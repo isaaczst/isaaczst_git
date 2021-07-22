@@ -9,7 +9,7 @@
 		  Veritasium中国官方账号。探索科学以及工程背后的真理。非Derek本人管理。网站： veritasium.com
 		  https://space.bilibili.com/94742590?from=search&seid=7470268681356522664
 	- IgNobel - Improbable Research https://www.youtube.com/channel/UCUnbIK56tCdeKC_GmRP-H2A
-	- TIK
+	- TIK https://www.youtube.com/channel/UCfZz8F37oSJ2rtcEJHM2kCg
 	-
 ## 英语
 	- Learn English (US) with subtitles - Story for Children and Adults "BookBox.Com"
