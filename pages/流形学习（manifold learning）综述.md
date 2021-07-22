@@ -39,7 +39,7 @@
 	  另外值得强调的是，对于每一点处拟合得到的系数归一化的操作特别重要，如果没有这一步，这个算法就没有效果。但是在原始论文中，他们是为了保持数据在平行移动下embedding不变。
 	  LLE的matlab代码写得简洁明了，是一个样板。
 	  在此有必要提提Lawrence Saul这个人。在Isomap和LLE的作者们中，Saul算是唯一一个以流形学习（并不限于）为研究对象开创学派的人。Saul早年主要做参数模型有关的算法。自从LLE以后，坐阵UPen创造了一个个佳绩。主要成就在于他的两个出色学生，Kilian Weinberger和 Fei Sha，做的方法。拿了很多奖，在此不多说，可以到他主页上去看。Weinberger把学习核矩阵引入到流形学习中来。他的这个方法在流形学习中影响到不是很显著，却是在 convex optimization 中人人得知。Fei Sha不用多说了，machine learning中一个闪亮的新星，中国留学生之骄傲。现在他们一个在Yahoo,一个在Jordan手下做PostDoc。
-	  c) Laplacian Eigenmaps
+	- c) Laplacian Eigenmaps
 	  要说哪一个方法被做的全面，那莫非LE莫属。如果只说LE这个方法本身，是不新的，许多年前在做mesh相关的领域就开始这莫用。但是放在黎曼几何的框架内，给出完整的几何分析的，应该是Belkin和Niyogi（LE作者）的功劳。
 	  LE的基本思想就是用一个无向有权图来描述一个流形，然后通过用图的嵌入（graph embedding）来找低维表示。说白了，就是保持图的局部邻接关系的情况把这个图从高维空间中重新画在一个低维空间中（graph drawing）。
 	  在至今为止的流行学习的典型方法中，LE是速度最快、效果相对来说不怎莫样的。但是LE有一个其他方法没有的特点，就是如果出现outlier情况下，它的鲁棒性（robustness）特别好。
