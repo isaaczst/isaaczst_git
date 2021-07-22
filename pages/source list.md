@@ -17,4 +17,5 @@
 - Learn French With Alexa https://www.youtube.com/channel/UCK6TzBHhEUCKa6dgjlsVHEw
 - 亨利·N·雷蒙德 - 主题 https://www.youtube.com/channel/UCkYysZJ_wfGMCg44zj8iLAQ
 - Deutsch lernen mit der DW https://www.youtube.com/channel/UCxUWIEL-USsiPak0Qy6_vVg
-- Learn French with a French Dude
+- Learn French with a French Dude https://www.youtube.com/channel/UCdSmJLd4X9qZkwO51qBU9NA
+-
