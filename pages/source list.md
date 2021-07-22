@@ -49,7 +49,6 @@ collapsed:: true
 	- mimiFish FM https://www.youtube.com/channel/UCUlG55IHoeSWr7xbbYUOdwQ
 	- Joseph-Louis Lagrange https://www.youtube.com/channel/UC6_yO5_oQfwelde0uEKiSZg
 - ## 功夫
-  collapsed:: true
 	- Wu Style Toronto https://www.youtube.com/channel/UCumLhu6O_hgAULxpmCVPdzQ
 	- Big Bear Fencing https://www.youtube.com/channel/UCg-YsbVp_L7TnuyMwz5nBmA
 	- 體智慧-脊椎健康教育的領導品牌 https://www.youtube.com/channel/UCLRCP-juSDl3icIfyw0XsWQ
