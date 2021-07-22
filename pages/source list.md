@@ -37,7 +37,7 @@
 	- Big Bear Fencing https://www.youtube.com/channel/UCg-YsbVp_L7TnuyMwz5nBmA
 	-
 ## 性
-	- 講談社ヤンマガch
+	- 講談社ヤンマガch https://www.youtube.com/channel/UC8dwPSQ5DOJGtwhmcNhNjSw
 	- 週刊プレイボーイ【公式】https://www.youtube.com/channel/UCG9QGvMg993m9lCd-ZjtGPw
 -
 -
