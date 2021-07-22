@@ -10,9 +10,11 @@
 		  https://space.bilibili.com/94742590?from=search&seid=7470268681356522664
 	- IgNobel - Improbable Research https://www.youtube.com/channel/UCUnbIK56tCdeKC_GmRP-H2A
 	- TIK https://www.youtube.com/channel/UCfZz8F37oSJ2rtcEJHM2kCg
+	- 3Blue1Brown
+## 杂项
 	-
-- ## 英语
-  collapsed:: true
+## 英语
+collapsed:: true
 	- Learn English (US) with subtitles - Story for Children and Adults "BookBox.Com"
 	  bookboxinc https://www.youtube.com/channel/UCHD0-6opjI0paLJj6P-f2s
 	- Snap Language Learner https://www.youtube.com/channel/UCzN5YElf_3pNxGOv-EUZesw
