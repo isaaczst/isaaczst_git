@@ -12,7 +12,7 @@
 	- TIK https://www.youtube.com/channel/UCfZz8F37oSJ2rtcEJHM2kCg
 	- 3Blue1Brown
 ## 杂项
-	- 婷婷谈钱I'm Tingting
+	- 婷婷谈钱I'm Tingting https://www.youtube.com/channel/UCWny7X0zvMyE5Tn4WA9pO6Q
 ## 英语
 collapsed:: true
 	- Learn English (US) with subtitles - Story for Children and Adults "BookBox.Com"
