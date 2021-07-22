@@ -35,7 +35,8 @@
 ## 功夫
 	- Wu Style Toronto https://www.youtube.com/channel/UCumLhu6O_hgAULxpmCVPdzQ
 	- Big Bear Fencing https://www.youtube.com/channel/UCg-YsbVp_L7TnuyMwz5nBmA
-	- 體智慧-脊椎健康教育的領導品牌
+	- 體智慧-脊椎健康教育的領導品牌 https://www.youtube.com/channel/UCLRCP-juSDl3icIfyw0XsWQ
+	-
 ## 性
 	- 講談社ヤンマガch https://www.youtube.com/channel/UC8dwPSQ5DOJGtwhmcNhNjSw
 	- 週刊プレイボーイ【公式】https://www.youtube.com/channel/UCG9QGvMg993m9lCd-ZjtGPw
