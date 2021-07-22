@@ -21,8 +21,7 @@
 ## 杂项
 	- 婷婷谈钱I'm Tingting https://www.youtube.com/channel/UCWny7X0zvMyE5Tn4WA9pO6Q
 	-
-## 英语
-collapsed:: true
+- ## 英语
 	- Learn English (US) with subtitles - Story for Children and Adults "BookBox.Com"
 	  bookboxinc https://www.youtube.com/channel/UCHD0-6opjI0paLJj6P-f2s
 	- Snap Language Learner https://www.youtube.com/channel/UCzN5YElf_3pNxGOv-EUZesw
@@ -49,6 +48,7 @@ collapsed:: true
 	- mimiFish FM https://www.youtube.com/channel/UCUlG55IHoeSWr7xbbYUOdwQ
 	- Joseph-Louis Lagrange https://www.youtube.com/channel/UC6_yO5_oQfwelde0uEKiSZg
 - ## 功夫
+  collapsed:: true
 	- Wu Style Toronto https://www.youtube.com/channel/UCumLhu6O_hgAULxpmCVPdzQ
 	- Big Bear Fencing https://www.youtube.com/channel/UCg-YsbVp_L7TnuyMwz5nBmA
 	- 體智慧-脊椎健康教育的領導品牌 https://www.youtube.com/channel/UCLRCP-juSDl3icIfyw0XsWQ
