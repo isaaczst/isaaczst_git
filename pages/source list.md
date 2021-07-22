@@ -12,7 +12,7 @@
 	- TIK https://www.youtube.com/channel/UCfZz8F37oSJ2rtcEJHM2kCg
 	- 3Blue1Brown
 	- Hsuan-Tien Lin https://www.youtube.com/channel/UC9Wi1Ias8t4u1OosYnHhi0Q
-	- minutephysics
+	- minutephysics https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg
 	-
 ## 杂项
 	- 婷婷谈钱I'm Tingting https://www.youtube.com/channel/UCWny7X0zvMyE5Tn4WA9pO6Q
