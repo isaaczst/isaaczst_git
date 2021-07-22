@@ -11,5 +11,6 @@
 -
 # 第二外语
 - 今日快訊 - 加拿大 https://www.youtube.com/channel/UCXj-UUDPg8oYfnSn09xjojA
-- lingoni FRENCH
+- lingoni FRENCH https://www.youtube.com/channel/UC0hpPbLaIop8hCtIpL-xNtQ
+-
 -
