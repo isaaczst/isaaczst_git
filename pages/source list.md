@@ -32,17 +32,20 @@
 	- Le Monde https://www.youtube.com/channel/UCYpRDnhk5H8h16jpS84uqsA
 	- 德语 https://www.youtube.com/channel/UC8Km0txKTlSPYIJF9HwPZMA
 	- Talk Like a Persian https://www.youtube.com/channel/UCbCvjr0v_-8LmZh9431N84w
-## 有声书
+- ## 有声书
+  collapsed:: true
 	- mimiFish FM https://www.youtube.com/channel/UCUlG55IHoeSWr7xbbYUOdwQ
 	- Joseph-Louis Lagrange https://www.youtube.com/channel/UC6_yO5_oQfwelde0uEKiSZg
-## 功夫
+- ## 功夫
+  collapsed:: true
 	- Wu Style Toronto https://www.youtube.com/channel/UCumLhu6O_hgAULxpmCVPdzQ
 	- Big Bear Fencing https://www.youtube.com/channel/UCg-YsbVp_L7TnuyMwz5nBmA
 	- 體智慧-脊椎健康教育的領導品牌 https://www.youtube.com/channel/UCLRCP-juSDl3icIfyw0XsWQ
 	- NTUMA台大武學 https://www.youtube.com/channel/UCmbeTtgiNZxO1sYE9xHIUww
 	- [中華武育學會] 推敲太極拳/八卦盤龍 https://www.youtube.com/channel/UCS9-it64JRvoswASoq75a8w
 	-
-## 性
+- ## 性
+  collapsed:: true
 	- 講談社ヤンマガch https://www.youtube.com/channel/UC8dwPSQ5DOJGtwhmcNhNjSw
 	- 週刊プレイボーイ【公式】https://www.youtube.com/channel/UCG9QGvMg993m9lCd-ZjtGPw
 -
