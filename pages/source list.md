@@ -11,7 +11,8 @@
 	- IgNobel - Improbable Research https://www.youtube.com/channel/UCUnbIK56tCdeKC_GmRP-H2A
 	- TIK https://www.youtube.com/channel/UCfZz8F37oSJ2rtcEJHM2kCg
 	- 3Blue1Brown
-	- Hsuan-Tien Lin
+	- Hsuan-Tien Lin https://www.youtube.com/channel/UC9Wi1Ias8t4u1OosYnHhi0Q
+	-
 ## 杂项
 	- 婷婷谈钱I'm Tingting https://www.youtube.com/channel/UCWny7X0zvMyE5Tn4WA9pO6Q
 	-
