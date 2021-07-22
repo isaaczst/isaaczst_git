@@ -23,7 +23,7 @@
 	- Deutsch lernen mit der DW https://www.youtube.com/channel/UCxUWIEL-USsiPak0Qy6_vVg
 	- Learn French with a French Dude https://www.youtube.com/channel/UCdSmJLd4X9qZkwO51qBU9NA
 	- Le Monde https://www.youtube.com/channel/UCYpRDnhk5H8h16jpS84uqsA
-	-
+	- 德语
 ## 有声书
 	- mimiFish FM https://www.youtube.com/channel/UCUlG55IHoeSWr7xbbYUOdwQ
 	- Joseph-Louis Lagrange https://www.youtube.com/channel/UC6_yO5_oQfwelde0uEKiSZg
