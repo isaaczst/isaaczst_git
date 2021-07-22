@@ -25,7 +25,7 @@
 	- Learn English (US) with subtitles - Story for Children and Adults "BookBox.Com"
 	  bookboxinc https://www.youtube.com/channel/UCHD0-6opjI0paLJj6P-f2s
 	- Snap Language Learner https://www.youtube.com/channel/UCzN5YElf_3pNxGOv-EUZesw
-	- NBC News
+	- NBC News https://www.youtube.com/channel/UCeY0bbntWzzVIaj2z3QigXg
 	-
 - ## 第二外语
   collapsed:: true
