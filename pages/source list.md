@@ -2,7 +2,6 @@
 - TODO 设置 sportify / tuneIn －配合 echo 语音控制 音频学习资料
   id:: 60f8402f-481f-41fe-8057-76c7bf4f80e5
 ## 科普，英文
--
 - Veritasium
 	- https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA
 	- Veritasium真理元素
