@@ -10,5 +10,6 @@
 	  https://space.bilibili.com/94742590?from=search&seid=7470268681356522664
 -
 # 第二外语
-- 今日快訊 - 加拿大
+- 今日快訊 - 加拿大 https://www.youtube.com/channel/UCXj-UUDPg8oYfnSn09xjojA
+-
 -
