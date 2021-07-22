@@ -16,7 +16,7 @@
 	- 今日快訊 - 加拿大 https://www.youtube.com/channel/UCXj-UUDPg8oYfnSn09xjojA
 	- lingoni FRENCH https://www.youtube.com/channel/UC0hpPbLaIop8hCtIpL-xNtQ
 	- Deutsch verstehen https://www.youtube.com/channel/UCJ-9bH9B1KZuXO988Vd56AA
-	- Le Dessous des Cartes - ARTE
+	- Le Dessous des Cartes - ARTE https://www.youtube.com/channel/UCHGMBrXUzClgjEzBMei-Jdw
 	- 我视星球 - I SEE https://www.youtube.com/channel/UCEW9fG9prezi5ALXSORnCzw
 	- Learn French With Alexa https://www.youtube.com/channel/UCK6TzBHhEUCKa6dgjlsVHEw
 	- 亨利·N·雷蒙德 - 主题 https://www.youtube.com/channel/UCkYysZJ_wfGMCg44zj8iLAQ
