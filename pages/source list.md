@@ -54,7 +54,7 @@ collapsed:: true
 	- 體智慧-脊椎健康教育的領導品牌 https://www.youtube.com/channel/UCLRCP-juSDl3icIfyw0XsWQ
 	- NTUMA台大武學 https://www.youtube.com/channel/UCmbeTtgiNZxO1sYE9xHIUww
 	- [中華武育學會] 推敲太極拳/八卦盤龍 https://www.youtube.com/channel/UCS9-it64JRvoswASoq75a8w
-	- 三個字SunGuts
+	- 三個字SunGuts https://www.youtube.com/channel/UCTPPmVw8pCUmw9tfY_MaKNg
 	-
 - ## 性
   collapsed:: true
