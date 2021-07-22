@@ -14,6 +14,7 @@
 	- Hsuan-Tien Lin https://www.youtube.com/channel/UC9Wi1Ias8t4u1OosYnHhi0Q
 	- minutephysics https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg
 	- TED-Ed https://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA
+	- Smithsonian Channel
 	-
 ## 杂项
 	- 婷婷谈钱I'm Tingting https://www.youtube.com/channel/UCWny7X0zvMyE5Tn4WA9pO6Q
