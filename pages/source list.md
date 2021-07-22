@@ -17,7 +17,7 @@
 ## 第二外语
 	- 今日快訊 - 加拿大 https://www.youtube.com/channel/UCXj-UUDPg8oYfnSn09xjojA
 	- Xinflix Media https://www.youtube.com/channel/UCxXME5H2za0KaoaYJVcWEdg
-	- 無綫新聞 TVB NEWS official
+	- 無綫新聞 TVB NEWS official https://www.youtube.com/channel/UC_ifDTtFAcsj-wJ5JfM27CQ
 	- lingoni FRENCH https://www.youtube.com/channel/UC0hpPbLaIop8hCtIpL-xNtQ
 	- Deutsch verstehen https://www.youtube.com/channel/UCJ-9bH9B1KZuXO988Vd56AA
 	- Le Dessous des Cartes - ARTE https://www.youtube.com/channel/UCHGMBrXUzClgjEzBMei-Jdw
