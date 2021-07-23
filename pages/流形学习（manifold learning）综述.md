@@ -55,7 +55,8 @@
 	- 但是有趣的是，在Isomap之后，他包括他在MIT带的学生就从来再也没有做过类似的工作。
 	- 其原因我今年夏天有所耳闻。
 	- 他在今年参加 UCLA Alan Yuille 组织的一个summer school上说，（不是原文，是大意）我们经常忘了做研究的原始出发点是什莫。
-	- 他做Isomap就是为了找一个好的visual perception的方法，他还坚持了他的方向和信仰，computational cognition，他没有随波逐流。而由他引导起来的 manifold learning 却快速的发展成了一个新的方向。
+	- 他做Isomap就是为了找一个好的visual perception的方法，他还坚持了他的方向和信仰，computational cognition，他没有随波逐流。
+	- 而由他引导起来的 manifold learning 却快速的发展成了一个新的方向。
 	  这是一个值得我们好好思考的问题。我们做一个东西，选择一个研究方向究竟是为了什莫。你考虑过吗？
 	  （当然，此问题也在问我自己）
 	- b) LLE (Locally linear Embedding)
