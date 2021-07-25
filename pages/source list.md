@@ -10,7 +10,7 @@
 		  https://space.bilibili.com/94742590?from=search&seid=7470268681356522664
 	- IgNobel - Improbable Research https://www.youtube.com/channel/UCUnbIK56tCdeKC_GmRP-H2A
 	- TIK https://www.youtube.com/channel/UCfZz8F37oSJ2rtcEJHM2kCg
-	- Mathemaniac
+	- Mathemaniac https://www.youtube.com/channel/UCrlZs71h3mTR45FgQNINfrg
 	- 3Blue1Brown
 	- Hsuan-Tien Lin https://www.youtube.com/channel/UC9Wi1Ias8t4u1OosYnHhi0Q
 	- minutephysics https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg
