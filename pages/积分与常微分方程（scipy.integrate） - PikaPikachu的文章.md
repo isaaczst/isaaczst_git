@@ -14,5 +14,10 @@
 		- ![公式](https://www.zhihu.com/equation?tex=%5Cfrac%7B%5Cmathrm+dy%7D%7B%5Cmathrm+dt%7D%3Dy%5Csin+t%5C%5C)
 		- 其解析解为：
 		- ![](https://www.zhihu.com/equation?tex=%5Cfrac%7B%5Cmathrm+dy%7D%7B%5Cmathrm+dt%7D%3Dy%5Csin+t%5CRightarrow%5Cfrac%7B%5Cmathrm+dy%7D%7By%7D%3D%5Csin+t%5Cmathrm+dt%5CRightarrow%5Cln+y%3DC-%5Ccos+t%5C%5C%5CRightarrow+y%3De%5E%7BC-%5Ccos+t%7D%5CRightarrow+y%3DCe%5E%7B-%5Ccos+t%7D%5C%5C)
-		-
+		- integrate.solve_ivp中的method的可选参数还有很多，包括：
+		- 参数	方法
+		  'RK23'	显式2(3)阶龙格库塔法
+		  'DOP853'	显式8阶龙格库塔法
+		  'Radau'	隐式5阶龙格库塔法
+		  'BDF'	向后微分公式法
 	-
