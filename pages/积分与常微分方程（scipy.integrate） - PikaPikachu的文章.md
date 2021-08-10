@@ -31,7 +31,8 @@
 		  在本文中，我们不介绍方程左侧的 ![公式](https://www.zhihu.com/equation?tex=S%5Cfrac%7By%7D%7Bx-a%7D) 项，这个主要是用来解决方程的奇异点问题。
 		- 下面举例说明该函数的用法，为求解波动方程：
 		- [](https://www.zhihu.com/equation?tex=%5Cfrac%7B%5Cmathrm+d%5E2y%7D%7B%5Cmathrm+dx%5E2%7D%2Bk%5E2y%3D0%5C%5C+y%280%29%3Dy%281%29%3D0%5C%5C+y%27%280%29%3Dk%5C%5C)
-		- 该方程的解析解为： /link
+		- 该方程的解析解为： [](https://www.zhihu.com/equation?tex=y%3D%5Csin+kx%2C%5Cquad+k%3Dn%5Cpi%2C%5Cquad+n%5Cin%5Cmathbb%7BZ%7D)
+		-
 		-
 		- def f(x,y,p):
 		    k=p[0]
