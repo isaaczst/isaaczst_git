@@ -27,7 +27,7 @@
 		- 其中bc表示boundary condition，即边界条件。
 		- 上式中，x是一个一维自变量，y(x)是一个n维向量值函数，p是一个k维未知向量，为了上述方程能被解决，需要n+k个边界条件，也就是函数bc必须是n+k维的。
 		- 函数的具体形式和参数为：
-		- integrate.solve_bvp(f,bc,x,y,p=None,S=None)
+		- `integrate.solve_bvp(f,bc,x,y,p=None,S=None)`
 		  在本文中，我们不介绍方程左侧的 [公式] 项，这个主要是用来解决方程的奇异点问题。
 		- 下面举例说明该函数的用法，为求解波动方程：
 		- [公式]
