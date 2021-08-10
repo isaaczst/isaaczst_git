@@ -6,4 +6,4 @@
 	- 使用numpy读取数据时Object arrays cannot be loaded when allow_pickle=False
 - scipy.io.savemat() 和 scipy.io.loadmat()
 - 首先我们用 scipy.io.savemat() 创建 .mat 文件，该函数有两个参数,一个文件名和一个包含变量名和取值的字典.
--
+- from scipy import io
