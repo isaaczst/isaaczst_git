@@ -30,5 +30,5 @@
 		- `integrate.solve_bvp(f,bc,x,y,p=None,S=None)`
 		  在本文中，我们不介绍方程左侧的 ![公式](https://www.zhihu.com/equation?tex=S%5Cfrac%7By%7D%7Bx-a%7D) 项，这个主要是用来解决方程的奇异点问题。
 		- 下面举例说明该函数的用法，为求解波动方程：
-		- /link
-		- 该方程的解析解为： [公式]
+		- [](https://www.zhihu.com/equation?tex=y%3D%5Csin+kx%2C%5Cquad+k%3Dn%5Cpi%2C%5Cquad+n%5Cin%5Cmathbb%7BZ%7D)
+		- 该方程的解析解为： /link
