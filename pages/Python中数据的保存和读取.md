@@ -1,0 +1,3 @@
+- numpy.save() 和 numpy.load()
+- numpy.save(arg_1,arg_2) 需要两个参数，arg_1 是文件名，arg_2 是要保存的数组.
+-
