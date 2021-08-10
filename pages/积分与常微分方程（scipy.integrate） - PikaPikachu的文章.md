@@ -23,7 +23,7 @@
 		-
 	- 2.给出边界条件的情况
 		- SciPy中的函数integrate.solve_bvp用来求解下列形式的常微分方程（组）：
-		- [公式]
+		- [](https://www.zhihu.com/equation?tex=%5Cfrac%7B%5Cmathrm+d%5Cbold+y%7D%7B%5Cmathrm+dx%7D%3Df%28x%2C%5Cbold+y%2Cp%29%2BS%5Cfrac%7By%7D%7Bx-a%7D%2C%5Cquad+a%5Cle+x%5Cle+b%5C%5C+%5Ctext%7Bbc%7D%28%5Cbold+y%28a%29%2C%5Cbold+y%28b%29%2Cp%29%3D0%5C%5C)
 		- 其中bc表示boundary condition，即边界条件。
 		- 上式中，x是一个一维自变量，y(x)是一个n维向量值函数，p是一个k维未知向量，为了上述方程能被解决，需要n+k个边界条件，也就是函数bc必须是n+k维的。
 		- 函数的具体形式和参数为：
