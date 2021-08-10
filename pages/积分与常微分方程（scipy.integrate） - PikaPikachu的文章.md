@@ -32,3 +32,22 @@
 		- 下面举例说明该函数的用法，为求解波动方程：
 		- [](https://www.zhihu.com/equation?tex=%5Cfrac%7B%5Cmathrm+d%5E2y%7D%7B%5Cmathrm+dx%5E2%7D%2Bk%5E2y%3D0%5C%5C+y%280%29%3Dy%281%29%3D0%5C%5C+y%27%280%29%3Dk%5C%5C)
 		- 该方程的解析解为： /link
+		-
+		- def f(x,y,p):
+		    k=p[0]
+		    return np.vstack((y[1],-k**2*y[0]))
+		- def bc(y_a,y_b,p):
+		    k=p[0]
+		    return np.array([y_a[0],y_b[0],y_a[1]-k])
+		- x=np.linspace(0,1,5)
+		  y=np.zeros((2,x.size))
+		  y[0,1]=1
+		  y[0,3]=-1
+		  result=integrate.solve_bvp(f,bc,x,y,p=[6])
+		  x_plot=np.linspace(0,1,1000)
+		  y_plot=result.sol(x_plot)[0]
+		  plt.plot(x_plot,y_plot)
+		  plt.grid()
+		  plt.xlabel('x')
+		  plt.ylabel('y')
+		  plt.show()
