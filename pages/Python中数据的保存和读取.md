@@ -3,3 +3,5 @@
 - data_a=np.load('a.npy')
 - 我们可以看到这一过程把原本为矩阵的 a 变为数组型了
 - 在np.load()在加载数据时需要带一个参数allow_pickle=True
+	- 使用numpy读取数据时Object arrays cannot be loaded when allow_pickle=False
+-
