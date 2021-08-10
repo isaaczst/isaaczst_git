@@ -9,4 +9,5 @@
 	- 这里的y可以为标量也可以为矢量。
 	- 函数的具体形式为：
 	- ```integrate.solve_ivp(f,(t_0,t_1),y_0,method='RK45',dense_output=False)```
+	- f即上式左侧的函数，(t_0, t_1)为参数t的范围，y0为初值条件。method='RK45'为选择的方法，默认为5（4）阶龙格库塔法。dense_output选择的是是否稠密输出，这个主要是画图的时候需要，默认为否。
 	-
