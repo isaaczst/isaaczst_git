@@ -11,7 +11,7 @@
 - with T=10.
 - In CasADi’s examples collection [3], you find codes for solving optimal control problems using a variety of different methods.
 - In the following, we will discuss three of the most important methods, namely direct single shooting, direct multiple shooting and direct collocation.
-- 8.1.1. Direct single-shooting
+### 8.1.1. Direct single-shooting
 - In the direct single shooting method, the control trajectory is parameterized using some piecewise smooth approximation, typically piecewise constant.
 - Using an explicit expression for the controls, we can then eliminate the whole state trajectory from the optimization problem, ending up with an NLP in only the discretized controls.
 - In CasADi’s examples collection, you will find the codes direct_single_shooting.py and direct_single_shooting.m for Python and MATLAB/Octave, respectively. These codes implement the direct single shooting method and solves it with IPOPT, relying on CasADi to calculate derivatives. To obtain the discrete time dynamics from the continuous time dynamics, a simple fixed-step Runge-Kutta 4 (RK4) integrator is implemented using CasADi symbolics. Simple integrator codes like these are often useful in the context of optimal control, but care must be taken so that they accurately solve the initial-value problem.
