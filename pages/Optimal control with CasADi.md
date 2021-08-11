@@ -8,3 +8,25 @@
 ## 8.1. A simple test problem
 - To illustrate some of the methods, we will consider the following test problem, namely driving a Van der Pol oscillator to the origin, while trying to minimize a quadratic cost:
 -
+  $$
+  \begin{split}\begin{array}{lc}
+  \begin{array}{l}
+  \text{minimize:} \\
+  x(\cdot) \in \mathbb{R}^2, \, u(\cdot) \in \mathbb{R}
+  \end{array}
+  \quad \displaystyle \int_{t=0}^{T}{(x_0^2 + x_1^2 + u^2) \, dt}
+  \\
+  \\
+  \text{subject to:} \\
+  \\
+  \begin{array}{ll}
+  \left\{
+  \begin{array}{l}
+  \dot{x}_0 = (1-x_1^2) \, x_0 - x_1 + u \\
+  \dot{x}_1 = x_0 \\
+  -1.0 \le u \le 1.0, \quad x_1 \ge -0.25
+  \end{array} \right. & \text{for} \, 0 \le t \le T \\
+  x_0(0)=0, \quad x_1(0)=1,
+  \end{array}
+  \end{array}\end{split}
+  $$
