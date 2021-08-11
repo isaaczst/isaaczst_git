@@ -9,8 +9,7 @@
 - To illustrate some of the methods, we will consider the following test problem, namely driving a Van der Pol oscillator to the origin, while trying to minimize a quadratic cost:
 -
 -
-  $$
-  \begin{split}\begin{array}{lc}
+  $$\begin{split}\begin{array}{lc}
   \begin{array}{l}
   \text{minimize:} \\
   x(\cdot) \in \mathbb{R}^2, \, u(\cdot) \in \mathbb{R}
