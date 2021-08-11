@@ -4,4 +4,5 @@
 - Since you are writing the solver yourself (rather than calling an existing “black-box” solver), a basic understanding of how to solve OCPs is indispensable.
 - Good, self-contained introductions to numerical optimal control can be found in the recent textbooks by  [Lorenz T. Biegler, Nonlinear Programming: Concepts, Algorithms, and Applications to Chemical Processes , SIAM 2010]
    or [John T. Betts, Practical Methods for Optimal Control Using Nonlinear Programming , SIAM 2001] 
-  [2] or Moritz Diehl’s lecture notes on numerical optimal control.
+  [2] or Moritz Diehl’s lecture notes on numerical optimal control. https://www.syscop.de/files/2015ws/numopt/numopt_0.pdf
+-
