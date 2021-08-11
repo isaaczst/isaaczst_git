@@ -9,5 +9,5 @@
 - To illustrate some of the methods, we will consider the following test problem, namely driving a Van der Pol oscillator to the origin, while trying to minimize a quadratic cost:
 -
 - with T=10.
-- In CasADi’s examples collection
+- In CasADi’s examples collection [3], you find codes for solving optimal control problems using a variety of different methods.
 -
