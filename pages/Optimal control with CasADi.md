@@ -7,3 +7,4 @@
   [2] or Moritz Diehl’s lecture notes on numerical optimal control. https://www.syscop.de/files/2015ws/numopt/numopt_0.pdf
 ## 8.1. A simple test problem
 - To illustrate some of the methods, we will consider the following test problem, namely driving a Van der Pol oscillator to the origin, while trying to minimize a quadratic cost:
+-
