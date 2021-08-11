@@ -5,4 +5,5 @@
 - Good, self-contained introductions to numerical optimal control can be found in the recent textbooks by  [Lorenz T. Biegler, Nonlinear Programming: Concepts, Algorithms, and Applications to Chemical Processes , SIAM 2010]
    or [John T. Betts, Practical Methods for Optimal Control Using Nonlinear Programming , SIAM 2001] 
   [2] or Moritz Diehl’s lecture notes on numerical optimal control. https://www.syscop.de/files/2015ws/numopt/numopt_0.pdf
--
+- 8.1. A simple test problem
+- To illustrate some of the methods, we will consider the following test problem, namely driving a Van der Pol oscillator to the origin, while trying to minimize a quadratic cost:
