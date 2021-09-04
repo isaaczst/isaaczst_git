@@ -8,6 +8,8 @@
 	- 查看大纲（优化自己笔记内部体系）
 - 如何安装插件？【玩转Obsidian的保姆级教程#2】 - Wyatt的文章 - 知乎
   https://zhuanlan.zhihu.com/p/403001135
+- 模板——好用的核心插件【玩转Obsidian的保姆级教程#3】 - Wyatt的文章 - 知乎
+  https://zhuanlan.zhihu.com/p/403008510
 	-
 	-
 -
