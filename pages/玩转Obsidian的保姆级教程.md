@@ -22,6 +22,7 @@
   https://zhuanlan.zhihu.com/p/403228404
 - 一个日清单的工作流【玩转Obsidian的保姆级教程#9】 - Wyatt的文章 - 知乎
   https://zhuanlan.zhihu.com/p/403675420
--
+- Enchancing mindmap--实现思维导图自由【玩转Obsidian的保姆级教程#10】 - Wyatt的文章 - 知乎
+  https://zhuanlan.zhihu.com/p/404805883
 -
 -
