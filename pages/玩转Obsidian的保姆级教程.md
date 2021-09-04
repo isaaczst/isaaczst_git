@@ -12,5 +12,7 @@
   https://zhuanlan.zhihu.com/p/403008510
 - 一个简单的工作流（快速记录）【玩转Obsidian的保姆级教程#4】 - Wyatt的文章 - 知乎
   https://zhuanlan.zhihu.com/p/403026649
+	- cMenu——解放Markdown语言编辑【玩转Obsidian的保姆级教程#5】 - Wyatt的文章 - 知乎
+	  https://zhuanlan.zhihu.com/p/403105633
 	-
 -
