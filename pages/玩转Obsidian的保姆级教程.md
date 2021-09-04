@@ -14,6 +14,10 @@
   https://zhuanlan.zhihu.com/p/403026649
 - cMenu——解放Markdown语言编辑【玩转Obsidian的保姆级教程#5】 - Wyatt的文章 - 知乎
   https://zhuanlan.zhihu.com/p/403105633
+- 日记——好用的核心插件【玩转Obsidian的保姆级教程#6】 - Wyatt的文章 - 知乎
+  https://zhuanlan.zhihu.com/p/403111731
+- Calendar——不只是日历【玩转Obsidian的保姆级教程#7】 - Wyatt的文章 - 知乎
+  https://zhuanlan.zhihu.com/p/403117880
 -
 -
 -
