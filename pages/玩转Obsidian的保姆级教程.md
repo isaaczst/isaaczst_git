@@ -18,6 +18,9 @@
   https://zhuanlan.zhihu.com/p/403111731
 - Calendar——不只是日历【玩转Obsidian的保姆级教程#7】 - Wyatt的文章 - 知乎
   https://zhuanlan.zhihu.com/p/403117880
+- Day Planners——高效日清单【玩转Obsidian的保姆级教程#8】 - Wyatt的文章 - 知乎
+  https://zhuanlan.zhihu.com/p/403228404
+-
 -
 -
 -
