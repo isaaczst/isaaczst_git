@@ -20,7 +20,8 @@
   https://zhuanlan.zhihu.com/p/403117880
 - Day Planners——高效日清单【玩转Obsidian的保姆级教程#8】 - Wyatt的文章 - 知乎
   https://zhuanlan.zhihu.com/p/403228404
--
+- 一个日清单的工作流【玩转Obsidian的保姆级教程#9】 - Wyatt的文章 - 知乎
+  https://zhuanlan.zhihu.com/p/403675420
 -
 -
 -
