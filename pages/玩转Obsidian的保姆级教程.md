@@ -10,6 +10,7 @@
   https://zhuanlan.zhihu.com/p/403001135
 - 模板——好用的核心插件【玩转Obsidian的保姆级教程#3】 - Wyatt的文章 - 知乎
   https://zhuanlan.zhihu.com/p/403008510
-	-
+- 一个简单的工作流（快速记录）【玩转Obsidian的保姆级教程#4】 - Wyatt的文章 - 知乎
+  https://zhuanlan.zhihu.com/p/403026649
 	-
 -
