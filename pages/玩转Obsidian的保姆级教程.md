@@ -28,4 +28,6 @@
   https://zhuanlan.zhihu.com/p/405168267
 - 设置obsidian的外观【玩转Obsidian的保姆级教程#12】 - Wyatt的文章 - 知乎
   https://zhuanlan.zhihu.com/p/406853739
+- Dataview--索引神器【玩转Obsidian的保姆级教程#13】 - Wyatt的文章 - 知乎
+  https://zhuanlan.zhihu.com/p/406878137
 -
