@@ -24,6 +24,7 @@
   https://zhuanlan.zhihu.com/p/403675420
 - Enchancing mindmap--实现思维导图自由【玩转Obsidian的保姆级教程#10】 - Wyatt的文章 - 知乎
   https://zhuanlan.zhihu.com/p/404805883
+	- Enchancing mindmap
 - Excalidraw --在Obsidian上绘画【玩转Obsidian的保姆级教程#11】 - Wyatt的文章 - 知乎
   https://zhuanlan.zhihu.com/p/405168267
 - 设置obsidian的外观【玩转Obsidian的保姆级教程#12】 - Wyatt的文章 - 知乎
