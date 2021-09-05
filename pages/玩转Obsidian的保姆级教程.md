@@ -32,6 +32,7 @@
 	  mindmap-plugin: basic
 	  ---
 	  ```
+	- 然后在文档的选项中，选中：“打开为思维导图”
 	-
 - Excalidraw --在Obsidian上绘画【玩转Obsidian的保姆级教程#11】 - Wyatt的文章 - 知乎
   https://zhuanlan.zhihu.com/p/405168267
