@@ -26,7 +26,8 @@
   https://zhuanlan.zhihu.com/p/404805883
 	- Enchancing mindmap
 	- 需要在文档的最开头加上：
-	- TODO ```---
+	- ```
+	  ---
 	  mindmap-plugin: basic
 	  ---
 	-
